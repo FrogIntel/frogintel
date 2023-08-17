@@ -6,13 +6,19 @@ Hey Frens, a team of Admins and Anons inside the truther community have compiled
 
 In recent months it has been removed from the Play Store and asked by Google to be dumbed down removing any contradicting health information regarding COVID-19. This included removing entire sections such as Conspyre.tv, so we left it in.
 
+![Frog Intel Homescreen](https://gcdnb.pbrd.co/images/PXDmzii2BSOv.jpg?o=1)
+
 It is designed to filter out a majority of the fakes, shills and trolls inside the movement spreading disinformation & misinformation. Providing you with OSINT tools alongside the Intel.
+
+![Frog Intel Side Menu](https://gcdnb.pbrd.co/images/xyxL0y649VqN.jpg?o=1)
 
 You can use it for deep research into various red pill topics, prove to friends, family and others what is being censored, use it in landscape mode, screenshot, leave comments on different websites, login to social media such as Twitter, Telegram and Truth Social all in one place. The app will be maintained and updated.
 
 Use this app for reaching and researching areas such as:
 
 QAlerts, QIntel, QResearch, BurrowTV, ConspyreTV, Disclosurehub, FallCabal, Wikileaks, VTVault, Truth Social, AndWeKnow, X22 Report, O'Keefe Media Group, Disclose TV, The Gateway Pundit, 8kun RSS, War Room, The Light Paper, Fight with Kash, The Exposé, Zero Hedge, And many more..
+
+![Frog Intel (3)](https://gcdnb.pbrd.co/images/PCHnaFLdRapG.jpg?o=1)
 
 ➡ Download @ Aptoide (APK file; version 3.9)
 https://frog-intel.en.aptoide.com/app
