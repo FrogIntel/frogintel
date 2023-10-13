@@ -12,7 +12,7 @@ In recent months it has been removed from the Play Store and asked by Google to 
 
 It is designed to filter out a majority of the fakes, shills and trolls inside the movement spreading disinformation & misinformation. Providing you with OSINT tools alongside the Intel.
 
-![Frog Intel Side Menu](https://github.com/FrogIntel/frogintel/assets/142356943/bf1282b0-2f9b-4c25-ba2b-4e26aa845308)
+![Frog Intel Side Menu](https://github.com/FrogIntel/frogintel/assets/142356943/98db0cb0-6f24-4a2f-b80d-ae7f97afc120)
 
 You can use it for deep research into various red pill topics, prove to friends, family and others what is being censored, use it in landscape mode, screenshot, leave comments on different websites, login to social media such as Twitter, Telegram and Truth Social all in one place. The app will be maintained and updated.
 
