@@ -18,7 +18,7 @@ You can use it for deep research into various red pill topics, prove to friends,
 
 Use this app for reaching and researching areas such as:
 
-QAlerts, QIntel, QResearch, BurrowTV, ConspyreTV, Disclosurehub, FallCabal, Wikileaks, VTVault, Truth Social, AndWeKnow, X22 Report, O'Keefe Media Group, Disclose TV, The Gateway Pundit, 8kun RSS, War Room, The Light Paper, Fight with Kash, The Exposé, Zero Hedge, And many more..
+QAlerts, QIntel, QResearch, ConspyreTV, Disclosurehub, FallCabal, Wikileaks, VTVault, Truth Social, AndWeKnow, X22 Report, O'Keefe Media Group, Disclose TV, The Gateway Pundit, 8kun RSS, War Room, The Light Paper, Fight with Kash, The Exposé, Zero Hedge, And many more..
 
 ![Frog Intel Preview](https://github.com/FrogIntel/frogintel/assets/142356943/d3a89b67-4072-406f-a76a-492d72611072)
 
