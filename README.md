@@ -22,10 +22,15 @@ QAlerts, QIntel, QResearch, ConspyreTV, Disclosurehub, FallCabal, Wikileaks, VTV
 
 ![Frog Intel Preview](https://github.com/FrogIntel/frogintel/assets/142356943/d3a89b67-4072-406f-a76a-492d72611072)
 
+➡ Download @ Github (APK file; version 4.0)
+https://github.com/FrogIntel/frogintel/releases/tag/frogintel
+
 ➡ Download @ Aptoide (APK file; version 3.9)
-https://frog-intel.en.aptoide.com/app
+https://frog-intel.en.aptoide.com/appDownload
+
 ➡ Download @ Apkpure (XAPK file; version 3.9)
 https://m.apkpure.com/frog-intel/frog.intel
+
 ➡ Download @ Telegram (APK file; version 4.0)
 https://t.me/frogintel/169
 
