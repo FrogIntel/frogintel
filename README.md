@@ -8,7 +8,7 @@ https://github.com/FrogIntel/frogintel/assets/142356943/b30f04c5-b1d9-479d-a12b-
 
 In recent months it has been removed from the Play Store and asked by Google to be dumbed down removing any contradicting health information regarding COVID-19. This included removing entire sections such as Conspyre.tv, so we left it in.
 
-![Frog Intel Homescreen](https://github.com/FrogIntel/frogintel/assets/142356943/b2046b0b-8e2c-4523-a839-347105334d6f)
+![Frog Intel Homescreen](https://github.com/FrogIntel/frogintel/assets/142356943/15a40585-0a28-48fa-93f4-ff39dd9cf668)
 
 It is designed to filter out a majority of the fakes, shills and trolls inside the movement spreading disinformation & misinformation. Providing you with OSINT tools alongside the Intel.
 
