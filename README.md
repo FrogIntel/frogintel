@@ -1,6 +1,6 @@
 # Frog Intel
  
-🆕 Frog Intel Android application has been BANNED from Google Play Store in recent months, but is STILL AVAILABLE and going 💪
+🆕 Frog Intel Android application has been BANNED from Google Play Store during 2023, but is STILL AVAILABLE and going 💪
 
 👉 Channel link (only Telegram)
 https://t.me/FrogIntel
