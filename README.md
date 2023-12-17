@@ -28,7 +28,8 @@ Use this app for reaching and researching areas such as:
 
 QAlerts, QIntel, QResearch, ConspyreTV, Disclosurehub, FallCabal, Wikileaks, VTVault, Truth Social, AndWeKnow, X22 Report, O'Keefe Media Group, Disclose TV, The Gateway Pundit, 8kun RSS, War Room, The Light Paper, Fight with Kash, The Exposé, Zero Hedge, And many more..
 
-![Frog Intel Preview](https://github.com/FrogIntel/frogintel/assets/142356943/d3a89b67-4072-406f-a76a-492d72611072)
+![IMG_20231217_120024](https://github.com/FrogIntel/frogintel/assets/142356943/b99b3d32-042e-4488-ab83-8af8d5c46a47)
+
 
 ➡ Download @ Github (APK file; version 4.0)
 https://github.com/FrogIntel/frogintel/releases/tag/frogintel
