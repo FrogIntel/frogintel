@@ -2,6 +2,12 @@
  
 🆕 Frog Intel Android application has been BANNED from Google Play Store in recent months, but is STILL AVAILABLE and going 💪
 
+👉 Channel link (only on Telegram)
+https://t.me/FrogIntel
+
+👉 Github link
+https://github.com/FrogIntel
+
 Hey Frens, a team of Admins and Anons inside the truther community have compiled a redpill 💊 Android 🤖 application called Frog Intel 🐸, launched May 5th 2023 for early release testing.
 
 👇 Preview is dated 10th October 2023, App has since been updated.
@@ -35,12 +41,6 @@ https://m.apkpure.com/frog-intel/frog.intel
 
 ➡ Download @ Telegram (APK file; version 4.0)
 https://t.me/frogintel/169
-
-👉 Channel link (only on Telegram)
-https://t.me/frogintel
-
-👉 Github link
-https://github.com/FrogIntel
 
 Apps From Unknown Sources:
 Download requires user to enable unknown sources for installing the apk file.
