@@ -14,7 +14,7 @@ In recent months it has been removed from the Play Store and asked by Google to 
 
 It is designed to filter out a majority of the fakes, shills and trolls inside the movement spreading disinformation & misinformation. Providing you with OSINT tools alongside the Intel.
 
-![Frog Intel Side Menu](https://github.com/FrogIntel/frogintel/assets/142356943/98db0cb0-6f24-4a2f-b80d-ae7f97afc120)
+![Frog Intel Menu](https://github.com/FrogIntel/frogintel/assets/142356943/e1bcae8a-e10f-4705-a102-352082a51d11)
 
 You can use it for deep research into various red pill topics, prove to friends, family and others what is being censored, use it in landscape mode, screenshot, leave comments on different websites, login to social media such as Twitter, Telegram and Truth Social all in one place. The app will be maintained and updated.
 
@@ -47,7 +47,13 @@ Download requires user to enable unknown sources for installing the apk file.
 If you download the file in Chrome, when opening the file and the warning pops up, click into settings > chrome > enable unknown sources.
 If you download the file in Telegram, do the same but find telegram and when prompted click into settings and enable unknown sources via Telegram.
 
+![Additional Intel Menu](https://github.com/FrogIntel/frogintel/assets/142356943/62079e28-893a-4aa8-b61b-93112279a898)
+
+
 Feedback is essential to the development of the application, if it is of use to you, please feel free to rate it or provide feedback in the channel.
+
+![IMG_20231217_115037](https://github.com/FrogIntel/frogintel/assets/142356943/4cf31a08-8c88-4730-900d-660669cc92e0)
+
 
 App has adverts built in due to the development service but these are later nulled.
 
