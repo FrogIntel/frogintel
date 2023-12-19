@@ -8,7 +8,7 @@ https://t.me/FrogIntel
 👉 Github link
 https://github.com/FrogIntel
 
-Hey Frens, a team of Admins and Anons inside the truther community have compiled a redpill 💊 Android 🤖 application called Frog Intel 🐸, launched May 5th 2023 for early release testing.
+Hey Frens, a team of Admins and Anons inside the truther community have compiled a redpill 💊 Android 🤖 application called Frog Intel 🐸, launched May 5th 2023.
 
 👇 Preview is dated 10th October 2023, App has since been updated.
 
