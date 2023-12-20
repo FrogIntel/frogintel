@@ -35,7 +35,7 @@ QAlerts, QIntel, QResearch, ConspyreTV, Disclosurehub, FallCabal, Wikileaks, VTV
 https://github.com/FrogIntel/frogintel/releases/tag/frogintel
 
 ➡ Download @ Aptoide (APK file; version 3.9)
-https://frog-intel.en.aptoide.com/appDownload
+https://frog-intel.en.aptoide.com/app
 
 ➡ Download @ Apkpure (XAPK file; version 3.9)
 https://m.apkpure.com/frog-intel/frog.intel
