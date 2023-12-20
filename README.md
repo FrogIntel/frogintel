@@ -14,7 +14,7 @@ Hey Frens, a team of Admins and Anons inside the truther community have compiled
 
 https://github.com/FrogIntel/frogintel/assets/142356943/b30f04c5-b1d9-479d-a12b-6362aa7b2e72
 
-In recent months it has been removed from the Play Store and asked by Google to be dumbed down removing any contradicting health information regarding COVID-19. This included removing entire sections such as Conspyre.tv, so we left it in.
+During 2023 it was removed from the Play Store and asked by Google to be dumbed down removing any contradicting health information regarding COVID-19. This included removing entire sections such as Conspyre.tv, so we left it in.
 
 ![Frog Intel Homescreen](https://github.com/FrogIntel/frogintel/assets/142356943/15a40585-0a28-48fa-93f4-ff39dd9cf668)
 
