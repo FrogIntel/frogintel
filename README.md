@@ -14,13 +14,20 @@ Hey Frens, a team of Admins and Anons inside the truther community have compiled
 
 https://github.com/FrogIntel/frogintel/assets/142356943/b30f04c5-b1d9-479d-a12b-6362aa7b2e72
 
+👇 Preview is dated 6th Jan 2024, App has since been updated. Visit here for the HD Demo and not compressed Github version:
+https://rumble.com/v45hmm9--demo-2-have-you-seen-this-app-frog-intel-.html
+
+https://github.com/FrogIntel/frogintel/assets/142356943/4cc4b1be-089a-4640-b032-a59f116d2e52
+
 During 2023 it was removed from the Play Store and asked by Google to be dumbed down removing any contradicting health information regarding COVID-19. This included removing entire sections, so we left it in.
 
-![Frog Intel Homescreen](https://github.com/FrogIntel/frogintel/assets/142356943/15a40585-0a28-48fa-93f4-ff39dd9cf668)
+![Frog Intel Homescreen](https://github.com/FrogIntel/frogintel/assets/142356943/8dede8b9-5258-477c-b0c2-401527b1b2bd)
+
 
 It is designed to filter out a majority of the fakes, shills and trolls inside the movement spreading disinformation & misinformation. Providing you with OSINT tools alongside the Intel.
 
-![Frog Intel Menu](https://github.com/FrogIntel/frogintel/assets/142356943/e1bcae8a-e10f-4705-a102-352082a51d11)
+![Frog Intel Menu](https://github.com/FrogIntel/frogintel/assets/142356943/12fbbd85-99ce-4adc-a7ce-7aa4003b0be9)
+
 
 You can use it for deep research into various red pill topics, prove to friends, family and others what is being censored, use it in landscape mode, screenshot, leave comments on different websites, login to social media such as Twitter, Telegram and Truth Social all in one place. The app will be maintained and updated.
 
@@ -28,8 +35,9 @@ Use this app for reaching and researching areas such as:
 
 QAlerts, QIntel, QResearch, FallCabal, Wikileaks, VTVault, Truth Social, AndWeKnow, X22 Report, O'Keefe Media Group, Disclose TV, The Gateway Pundit, 8kun RSS, War Room, The Light Paper, Fight with Kash, The Exposé, The Disclosure Hub, Zero Hedge, And many more..
 
-![IMG_20231217_120024](https://github.com/FrogIntel/frogintel/assets/142356943/b99b3d32-042e-4488-ab83-8af8d5c46a47)
+![ACCESS TRUTH SOCIAL & MORE!](https://github.com/FrogIntel/frogintel/assets/142356943/38882a75-e17a-4791-bea9-624204b8a74c)
 
+# DOWNLOAD NOW! 👇
 
 ➡ Download @ Github (APK file; version 4.0)
 https://github.com/FrogIntel/frogintel/releases/tag/frogintel
@@ -48,12 +56,13 @@ Download requires user to enable unknown sources for installing the apk file.
 If you download the file in Chrome, when opening the file and the warning pops up, click into settings > chrome > enable unknown sources.
 If you download the file in Telegram, do the same but find telegram and when prompted click into settings and enable unknown sources via Telegram.
 
-![Additional Intel Menu](https://github.com/FrogIntel/frogintel/assets/142356943/62079e28-893a-4aa8-b61b-93112279a898)
+
+![Additional Intel Menu](https://github.com/FrogIntel/frogintel/assets/142356943/57e2beaa-3d87-493a-88ab-db7431a8fea9)
 
 
 Feedback is essential to the development of the application, if it is of use to you, please feel free to rate it or provide feedback in the channel.
 
-![IMG_20231217_115037](https://github.com/FrogIntel/frogintel/assets/142356943/4cf31a08-8c88-4730-900d-660669cc92e0)
+![TECH TOOLS & TIPS MENU](https://github.com/FrogIntel/frogintel/assets/142356943/bb6b04e3-581e-4522-9262-82137162cdb4)
 
 
 App has adverts built in due to the development service but these are later nulled.
