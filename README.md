@@ -72,3 +72,5 @@ App has adverts built in due to the development service but these are later null
 
 # "We have an Army, of Digital Soldiers"
 "Where We Go One We Go All"
+
+![Visitor Count](https://profile-counter.glitch.me/{FrogIntel}/count.svg)
