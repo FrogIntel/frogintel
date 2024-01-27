@@ -48,9 +48,6 @@ https://github.com/FrogIntel/frogintel/releases/tag/frogintel
 ➡ Download @ Aptoide (APK file; version 3.9)
 https://frog-intel.en.aptoide.com/app
 
-➡ Download @ Apkpure (XAPK file; version 3.9)
-https://m.apkpure.com/frog-intel/frog.intel
-
 ➡ Download @ Telegram (APK file; version 4.0)
 https://t.me/frogintel/169
 
