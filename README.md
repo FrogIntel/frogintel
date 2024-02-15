@@ -24,11 +24,13 @@ https://github.com/FrogIntel/frogintel/assets/142356943/4cc4b1be-089a-4640-b032-
 
 During 2023 it was removed from the Play Store and asked by Google to be dumbed down removing any contradicting health information regarding COVID-19. This included removing entire sections, so we left it in.
 
+👇 FROG INTEL HOMESCREEN
 ![FROG INTEL HOMESCREEN](https://github.com/FrogIntel/frogintel/assets/142356943/ccc4a0b2-de77-4a7c-abab-71c323efc4c8)
 
 
 It is designed to filter out a majority of the fakes, shills and trolls inside the movement spreading disinformation & misinformation. Providing you with OSINT tools alongside the Intel.
 
+👇 FROG INTEL SIDE MENU TOP
 ![FROG INTEL MENU](https://github.com/FrogIntel/frogintel/assets/142356943/594e2437-f25c-4c09-af21-3f2cf57ad17a)
 
 
@@ -39,6 +41,7 @@ Use this app for reaching and researching areas such as:
 
 QAlerts, QIntel, QResearch, FallCabal, Wikileaks, VTVault, Truth Social, AndWeKnow, X22 Report, O'Keefe Media Group, Disclose TV, The Gateway Pundit, 8kun RSS, War Room, The Light Paper, Fight with Kash, The Exposé, The Disclosure Hub, Zero Hedge, And many more..
 
+👇 ACCESS TRUTH SOCIAL & MORE
 ![ACCESS TRUTH SOCIAL & MORE!](https://github.com/FrogIntel/frogintel/assets/142356943/38882a75-e17a-4791-bea9-624204b8a74c)
 
 
@@ -58,16 +61,19 @@ Download requires user to enable unknown sources for installing the apk file.
 If you download the file in Chrome, when opening the file and the warning pops up, click into settings > chrome > enable unknown sources.
 If you download the file in Telegram, do the same but find telegram and when prompted click into settings and enable unknown sources via Telegram.
 
-
+👇 FROG INTEL ADDITIONAL INTEL
 ![Additional Intel Menu](https://github.com/FrogIntel/frogintel/assets/142356943/57e2beaa-3d87-493a-88ab-db7431a8fea9)
 
 
 Feedback is essential to the development of the application, if it is of use to you, please feel free to rate it or provide feedback in the channel.
 
+👇 FROG INTEL TECH TOOLS & TIPS
 ![TECH TOOLS & TIPS MENU](https://github.com/FrogIntel/frogintel/assets/142356943/bb6b04e3-581e-4522-9262-82137162cdb4)
 
+👇 FROG INTEL RESOURCES
 ![RESOURCES MENU](https://github.com/FrogIntel/frogintel/assets/142356943/6850e0b6-4813-495a-bf63-5e0233194df3)
 
+👇 FROG INTEL SIDE MENU BOTTOM
 ![SIDE MENU END](https://github.com/FrogIntel/frogintel/assets/142356943/f4b58e70-f27a-4f0a-a8b2-fe6c2dc7d90a)
 
 
