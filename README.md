@@ -24,12 +24,13 @@ https://github.com/FrogIntel/frogintel/assets/142356943/4cc4b1be-089a-4640-b032-
 
 During 2023 it was removed from the Play Store and asked by Google to be dumbed down removing any contradicting health information regarding COVID-19. This included removing entire sections, so we left it in.
 
-![Frog Intel Homescreen](https://github.com/FrogIntel/frogintel/assets/142356943/ccc4a0b2-de77-4a7c-abab-71c323efc4c8)
+![FROG INTEL HOMESCREEN](https://github.com/FrogIntel/frogintel/assets/142356943/ccc4a0b2-de77-4a7c-abab-71c323efc4c8)
 
 
 It is designed to filter out a majority of the fakes, shills and trolls inside the movement spreading disinformation & misinformation. Providing you with OSINT tools alongside the Intel.
 
-![Frog Intel Menu](https://github.com/FrogIntel/frogintel/assets/142356943/12fbbd85-99ce-4adc-a7ce-7aa4003b0be9)
+![FROG INTEL MENU](https://github.com/FrogIntel/frogintel/assets/142356943/594e2437-f25c-4c09-af21-3f2cf57ad17a)
+
 
 
 You can use it for deep research into various red pill topics, prove to friends, family and others what is being censored, use it in landscape mode, screenshot, leave comments on different websites, login to social media such as Twitter, Telegram and Truth Social all in one place. The app will be maintained and updated.
