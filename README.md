@@ -25,7 +25,7 @@ https://github.com/FrogIntel/frogintel/assets/142356943/4cc4b1be-089a-4640-b032-
 During 2023 it was removed from the Play Store and asked by Google to be dumbed down removing any contradicting health information regarding COVID-19. This included removing entire sections, so we left it in.
 
 👇 FROG INTEL HOMESCREEN
-![FROG INTEL HOMESCREEN](https://github.com/FrogIntel/frogintel/assets/142356943/ccc4a0b2-de77-4a7c-abab-71c323efc4c8)
+![FROG INTEL HOMESCREEN](https://github.com/FrogIntel/frogintel/assets/142356943/f1e8afdc-3687-4b68-aaca-f4b359cc3d91)
 
 
 It is designed to filter out a majority of the fakes, shills and trolls inside the movement spreading disinformation & misinformation. Providing you with OSINT tools alongside the Intel.
@@ -74,7 +74,7 @@ Feedback is essential to the development of the application, if it is of use to 
 ![RESOURCES MENU](https://github.com/FrogIntel/frogintel/assets/142356943/6850e0b6-4813-495a-bf63-5e0233194df3)
 
 👇 FROG INTEL SIDE MENU BOTTOM
-![SIDE MENU END](https://github.com/FrogIntel/frogintel/assets/142356943/f4b58e70-f27a-4f0a-a8b2-fe6c2dc7d90a)
+![SIDE MENU END](https://github.com/FrogIntel/frogintel/assets/142356943/32937599-d37e-4e4f-bc00-139b99d7decc)
 
 
 App has adverts built in due to the development service but these are later nulled.
