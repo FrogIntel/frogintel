@@ -1,7 +1,6 @@
 # Frog Intel Android App
 
-![FROG INTEL](https://github.com/FrogIntel/frogintel/assets/142356943/32a88097-da0c-4062-aee7-5aea6d9b39d3)
-
+![IMG_20240216_005052](https://github.com/FrogIntel/frogintel/assets/142356943/beaf3042-8b81-46eb-a22d-ce00e83bb5d3)
  
 🆕 Frog Intel Android application has been BANNED from Google Play Store during 2023, but is STILL AVAILABLE and going 💪
 
