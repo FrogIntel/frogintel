@@ -26,14 +26,14 @@ https://github.com/FrogIntel/frogintel/assets/142356943/4cc4b1be-089a-4640-b032-
 
 During 2023 it was removed from the Play Store and asked by Google to be dumbed down removing any contradicting health information regarding COVID-19. This included removing entire sections, so we left it in.
 
-👇 FROG INTEL HOMESCREEN
-![FROG INTEL HOMESCREEN](https://github.com/FrogIntel/frogintel/assets/142356943/e9c04f41-8464-4898-ac99-dcc8ea56ba80)
+👇 HOMESCREEN
+![HOMESCREEN](https://github.com/FrogIntel/frogintel/assets/142356943/e9c04f41-8464-4898-ac99-dcc8ea56ba80)
 
 
 It is designed to filter out a majority of the fakes, shills and trolls inside the movement spreading disinformation & misinformation. Providing you with OSINT tools alongside the Intel.
 
-👇 FROG INTEL SIDE MENU TOP
-![FROG INTEL MENU](https://github.com/FrogIntel/frogintel/assets/142356943/16aed665-dd21-4b77-9ac4-a91f74ac5155)
+👇 SIDE MENU TOP
+![MENU](https://github.com/FrogIntel/frogintel/assets/142356943/16aed665-dd21-4b77-9ac4-a91f74ac5155)
 
 
 You can use it for deep research into various red pill topics, prove to friends, family and others what is being censored, use it in landscape mode, screenshot, leave comments on different websites, login to social media such as Twitter, Telegram and Truth Social all in one place. The app will be maintained and updated.
@@ -62,20 +62,20 @@ Download requires user to enable unknown sources for installing the apk file.
 If you download the file in Chrome, when opening the file and the warning pops up, click into settings > chrome > enable unknown sources.
 If you download the file in Telegram, do the same but find telegram and when prompted click into settings and enable unknown sources via Telegram.
 
-👇 FROG INTEL ADDITIONAL INTEL
+👇 ADDITIONAL INTEL
 ![Additional Intel Menu](https://github.com/FrogIntel/frogintel/assets/142356943/57e2beaa-3d87-493a-88ab-db7431a8fea9)
 
 
 Feedback is essential to the development of the application, if it is of use to you, please feel free to rate it or provide feedback in the channel.
 
-👇 FROG INTEL TECH TOOLS & TIPS
+👇 TECH TOOLS & TIPS
 ![TECH TOOLS & TIPS MENU](https://github.com/FrogIntel/frogintel/assets/142356943/bb6b04e3-581e-4522-9262-82137162cdb4)
 
-👇 FROG INTEL RESOURCES
+👇 RESOURCES
 ![RESOURCES MENU](https://github.com/FrogIntel/frogintel/assets/142356943/6850e0b6-4813-495a-bf63-5e0233194df3)
 
-👇 FROG INTEL SIDE MENU END
-![FROG INTEL SIDE MENU END](https://github.com/FrogIntel/frogintel/assets/142356943/8e8eba37-96b9-4499-bc5b-c83bcdfa06c7)
+👇 SIDE MENU END
+![SIDE MENU END](https://github.com/FrogIntel/frogintel/assets/142356943/8e8eba37-96b9-4499-bc5b-c83bcdfa06c7)
 
 
 App has adverts built in due to the development service but these are later nulled.
