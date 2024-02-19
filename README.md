@@ -97,7 +97,7 @@ Ask For Donations Either.
 - Some of The Content Used in The App Might
 Not Reflect The Developers of The App Views.
 - Do Not Use This App For Your Dopamine Hits.
-- Recommended for 18+ Viewing.
+- Recommended for 18+ Use.
 
 # "We have an Army, of Digital Soldiers"
 "Where We Go One We Go All"
