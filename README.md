@@ -30,7 +30,8 @@ https://github.com/FrogIntel/frogintel/assets/142356943/4cc4b1be-089a-4640-b032-
 During 2023 it was removed from the Play Store and asked by Google to be dumbed down removing any contradicting health information regarding COVID-19. This included removing entire sections, so we left it in.
 
 👇 HOMESCREEN
-![HOMESCREEN](https://github.com/FrogIntel/frogintel/assets/142356943/41d01c1d-b269-41f9-a7cf-58d3fa885ff3)
+![HOMESCREEN](https://github.com/FrogIntel/frogintel/assets/142356943/76f1f33f-f3f2-454d-91a8-c75254aeb50d)
+
 
 
 It is designed to filter out a majority of the fakes, shills and trolls inside the movement spreading disinformation & misinformation. Providing you with OSINT tools alongside the Intel.
