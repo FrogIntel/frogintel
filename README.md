@@ -87,6 +87,18 @@ Feedback is essential to the development of the application, if it is of use to 
 
 App has adverts built in due to the development service but these are later nulled.
 
+# App Disclaimer 📄
+- Not All Content In The App Is Correct.
+- We Have Left In Some Of This Content To Help
+Calibrate Discernment.
+- Please Use Discernment Accordingly.
+- This App is Free, We Will Never
+Ask For Donations Either.
+- Some of The Content Used in The App Might
+Not Reflect The Developers of The App Views.
+- Do Not Use This App For Your Dopamine Hits.
+- Recommended for 18+ Viewing.
+
 # "We have an Army, of Digital Soldiers"
 "Where We Go One We Go All"
 
