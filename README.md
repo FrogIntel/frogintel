@@ -105,7 +105,7 @@ App has adverts built in due to the development service but these are later null
 
 Frog Intel funding out of pocket. It's not people funded, nor will it ask for donations. But we will ask, if you wish to share our business cards around. Feel free to use the v2 business card, download and print them out. V1 can be found in the telegram channel.
 
-Dowmload the front of the card by downloading the banner at the top of the github page.
+Download the front of the card by downloading the banner at the top of the github page.
 
 👇 Below is the rear of the business card
 ![BUSINESS CARD REAR](https://github.com/FrogIntel/frogintel/assets/142356943/0ebb24c6-3813-47d9-a647-d17ac5edf593)
