@@ -43,6 +43,7 @@ Ultimately, Frog Intel transcends the confines of a mere application; it symboli
 https://apps400.com/android-apps/unveiling-the-power-of-frog-intel.html
 </details>
 
+
 👇 HOME SCREEN
 ![HOME SCREEN](https://github.com/FrogIntel/frogintel/assets/142356943/d4868cf5-1a4e-47fa-97a0-ce8a3b34913d)
 
