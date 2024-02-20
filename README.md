@@ -97,7 +97,7 @@ Download requires user to enable unknown sources for installing the apk file.
 If you download the file in Chrome, when opening the file and the warning pops up, click into settings > chrome > enable unknown sources.
 If you download the file in Telegram, do the same but find telegram and when prompted click into settings and enable unknown sources via Telegram.
 
-Feedback is essential to the development of the application, if it is of use to you, please feel free to rate it or provide feedback in the channel.
+Feedback is essential to the development of the application, if it is of use to you, please feel free to rate it or provide feedback in the channel or app.
 
 App has adverts built in due to the development service but these are later nulled.
 
