@@ -11,7 +11,7 @@ https://t.me/FrogIntel
 https://github.com/FrogIntel
 
 👉 Download Now!
-https://github.com/FrogIntel/frogintel/releases/tag/frogintel
+https://github.com/FrogIntel/frogintel/releases
 
 - Current App Version: 4.0
 - Current Home Screen Version: 5.0
@@ -70,7 +70,7 @@ QAlerts, QIntel, QResearch, FallCabal, Wikileaks, VTVault, Truth Social, AndWeKn
 # DOWNLOAD NOW! 👇
 
 ➡ Download @ Github (APK file; version 4.0)
-https://github.com/FrogIntel/frogintel/releases/tag/frogintel
+https://github.com/FrogIntel/frogintel/releases
 
 ➡ Download @ Aptoide (APK file; version 3.9)
 https://frog-intel.en.aptoide.com/app
