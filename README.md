@@ -11,7 +11,7 @@ https://t.me/FrogIntel
 https://github.com/FrogIntel
 
 👉 Download Now!
-https://github.com/FrogIntel/frogintel/tree/main?tab=readme-ov-file#download-now-
+https://github.com/FrogIntel/frogintel/releases/tag/frogintel
 
 - Current App Version: 4.0
 - Current Home Screen Version: 5.0
