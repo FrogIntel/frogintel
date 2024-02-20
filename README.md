@@ -14,7 +14,7 @@ https://github.com/FrogIntel
 https://github.com/FrogIntel/frogintel/releases
 
 - Current App Version: 4.1 Pre-Release
-- Current Home Screen Version: 5.0
+- Current Home Screen Version: 5.1
 
 Hey Frens, a team of Admins and Anons inside the truther community have compiled a redpill 💊 Android 🤖 application called Frog Intel 🐸, launched May 5th 2023.
 
