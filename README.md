@@ -95,14 +95,14 @@ QAlerts, QIntel, QResearch, FallCabal, Wikileaks, VTVault, Truth Social, AndWeKn
 
 # DOWNLOAD NOW! 👇
 
-➡ Download @ Github (APK file; version 4.0)
+➡ Download @ Github (APK file; version 4.1)
 https://github.com/FrogIntel/frogintel/releases
 
 ➡ Download @ Aptoide (APK file; version 3.9)
 https://frog-intel.en.aptoide.com/app
 
-➡ Download @ Telegram (APK file; version 4.0)
-https://t.me/frogintel/169
+➡ Download @ Telegram (APK file; version 4.1)
+https://t.me/frogintel/341
 
 Apps From Unknown Sources:
 Download requires user to enable unknown sources for installing the apk file.
