@@ -103,7 +103,7 @@ App has adverts built in due to the development service but these are later null
 
 # Help Spread Awareness Of Frog Intel
 
-Frog Intel funding out of pocket. It's not people funded, nor will it ask for donations. But we will ask, if you wish to share our business cards around. Feel free to use the v2 business card, download and print them out. V1 can be found in the telegram channel.
+Frog Intel funding is out of pocket. It's not people funded, nor will it ask for donations. But we will ask, if you wish to share our business cards around. Feel free to use the v2 business card, download and print them out. V1 can be found in the telegram channel.
 
 Download the front of the card by downloading the banner at the top of the github page.
 
