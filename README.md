@@ -18,15 +18,6 @@ https://github.com/FrogIntel/frogintel/tree/main?tab=readme-ov-file#download-now
 
 Hey Frens, a team of Admins and Anons inside the truther community have compiled a redpill 💊 Android 🤖 application called Frog Intel 🐸, launched May 5th 2023.
 
-👇 Preview is dated 10th October 2023, App has since been updated.
-
-https://github.com/FrogIntel/frogintel/assets/142356943/b30f04c5-b1d9-479d-a12b-6362aa7b2e72
-
-👇 Preview is dated 6th Jan 2024, App has since been updated. Visit here for the HD Demo and not compressed Github version:
-https://rumble.com/v45hmm9--demo-2-have-you-seen-this-app-frog-intel-.html
-
-https://github.com/FrogIntel/frogintel/assets/142356943/4cc4b1be-089a-4640-b032-a59f116d2e52
-
 During 2023 it was removed from the Play Store and asked by Google to be dumbed down removing any contradicting health information regarding COVID-19. This included removing entire sections, so we left it in.
 
 👇 HOME SCREEN
