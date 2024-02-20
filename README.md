@@ -1,6 +1,6 @@
 # Frog Intel Android App
 
-![GET EDUCATED FREN](https://github.com/FrogIntel/frogintel/assets/142356943/364f0820-d105-4b98-b55b-b3274738403e)
+![BUSINESS CARD FRONT](https://github.com/FrogIntel/frogintel/assets/142356943/364f0820-d105-4b98-b55b-b3274738403e)
 
 🆕 Frog Intel Android application has been BANNED from Google Play Store during 2023, but is STILL AVAILABLE and going 💪
 
@@ -100,6 +100,16 @@ If you download the file in Telegram, do the same but find telegram and when pro
 Feedback is essential to the development of the application, if it is of use to you, please feel free to rate it or provide feedback in the channel.
 
 App has adverts built in due to the development service but these are later nulled.
+
+# Help Spread Awareness Of Frog Intel
+
+Frog Intel funding out of pocket. It's not people funded, nor will it ask for donations. But we will ask, if you wish to share our business cards around. Feel free to use the v2 business card, download and print them out. V1 can be found in the telegram channel.
+
+Dowmload the front of the card by downloading the banner at the top of the github page.
+
+👇 Below is the rear of the business card
+![BUSINESS CARD REAR](https://github.com/FrogIntel/frogintel/assets/142356943/0ebb24c6-3813-47d9-a647-d17ac5edf593)
+
 
 # App Disclaimer 📄
 - Not All Content In The App Is Correct.
