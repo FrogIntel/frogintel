@@ -1,7 +1,7 @@
 # Frog Intel Android App
 
-![IMG_20240216_005052](https://github.com/FrogIntel/frogintel/assets/142356943/beaf3042-8b81-46eb-a22d-ce00e83bb5d3)
- 
+![GET EDUCATED FREN](https://github.com/FrogIntel/frogintel/assets/142356943/364f0820-d105-4b98-b55b-b3274738403e)
+
 🆕 Frog Intel Android application has been BANNED from Google Play Store during 2023, but is STILL AVAILABLE and going 💪
 
 👉 Channel link (only Telegram)
