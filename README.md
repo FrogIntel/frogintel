@@ -20,6 +20,28 @@ Hey Frens, a team of Admins and Anons inside the truther community have compiled
 
 During 2023 it was removed from the Play Store and asked by Google to be dumbed down removing any contradicting health information regarding COVID-19. This included removing entire sections, so we left it in.
 
+# REVIEWS
+<details>
+ <summary>
+  READ THE REVIEW BY APPS400 🔥
+ </summary>
+ 
+Unveiling the Power of Frog Intel
+ 
+In the realm of digital information consumption, the re-launch of Frog Intel app stands as a transformative moment. Embracing a new interface, Frog Intel emerges as an Android application intricately woven into the fabric of red pill truth areas, complemented by cutting-edge OSINT tools. The genesis of this app is rooted in a collective frustration shared among individuals, like us, who have grown weary of navigating through the labyrinth of shills and trolls within the movement. With a primary focus on filtering out misinformation and disinformation, Frog Intel carves a path to authentic enlightenment.
+
+Redefining Truth and Information Access
+Frog Intel is an app with a collection of Truther Websites and OSINT tools for the red pill folk. This revamped app transcends conventional boundaries by enabling users to delve into deep research on a myriad of red pill topics while unearthing censored truths. Its versatility allows for effortless sharing with friends, family, and peers, incorporating features like landscape mode, screenshot capabilities, and the option to engage through social media platforms such as Twitter, Telegram, and Truth Social all in one unified space. Continuously updated and maintained, Frog Intel serves as a beacon of reliability amidst the chaos of digital discourse.
+
+Stand With the Truth
+By offering a curated selection of red pill resources ranging from QAlerts to Zero Hedge, Frog Intel empowers users to navigate a multitude of insightful platforms with ease and precision. It acts as a shield against the onslaught of fake news, shrouded in deceptive narratives, and positions itself as a guardian of truth in an era fraught with misinformation.
+
+Final Thoughts
+Ultimately, Frog Intel transcends the confines of a mere application; it symbolizes a paradigm shift towards information transparency, fostering a community of informed individuals equipped to discern fact from fiction. Revolutionize your digital experience, embark on a journey of enlightenment, and awaken your inner warrior with the unveiling of this powerful new tool. Frog Intel: where truth meets empowerment.
+
+https://apps400.com/android-apps/unveiling-the-power-of-frog-intel.html
+</details>
+
 👇 HOME SCREEN
 ![HOME SCREEN](https://github.com/FrogIntel/frogintel/assets/142356943/d4868cf5-1a4e-47fa-97a0-ce8a3b34913d)
 
