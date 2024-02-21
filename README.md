@@ -161,6 +161,13 @@ Download the front of the card by downloading the banner at the top of the githu
 👇 Below is the rear of the business card
 ![BUSINESS CARD REAR](https://github.com/FrogIntel/frogintel/assets/142356943/0ebb24c6-3813-47d9-a647-d17ac5edf593)
 
+# Road Map
+
+- Keep App Free
+- Port to iOS
+- Browser bookmark extension
+- Setup a Sponsorship Section / Tab for redpill folk
+(App is free and has adverts nulled, so to generate some form of return, a sponsorship area will be setup away from the mainscreen where redpill folk can chip in with some $ and get seen within the app. If this interests you, contact us via the form within the app)
 
 # App Disclaimer 📄
 - Not All Content In The App Is Correct.
