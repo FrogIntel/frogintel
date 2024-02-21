@@ -183,7 +183,31 @@ Not Reflect The Developers of The App Views.
 - Do Not Use This App For Your Dopamine Hits.
 - Recommended for 18+ Use.
 
-# "We have an Army, of Digital Soldiers"
-"Where We Go One We Go All"
+# Credits To
+- Anons & Patriots
+- Redpill Graphic Designers & Media Producers
+- Sources pushing out truth and factual discernment
+- Frens
+- Confluxbot
+- Luckypatcher
+- Jotform
+- Nicepage
+- Apktool M
+- AppCreator24
+
+Credits to user's from Countries that assisted development:
+- UK
+- USA
+- Norway
+- Mexico
+- Netherlands
+- Ireland
+- Hong Kong
+- Australia
+- France
+- Germany
+- India
+- Russia
+- ( Probably missed some as well )
 
 ![Visitor Count](https://profile-counter.glitch.me/{FrogIntel}/count.svg)
