@@ -166,6 +166,7 @@ Download the front of the card by downloading the banner at the top of the githu
 - Keep App Free
 - Port to iOS
 - Browser bookmark extension
+- Update Aptoide page
 - Setup a Sponsorship Section / Tab for redpill folk
 (App is free and has adverts nulled, so to generate some form of return, a sponsorship area will be setup away from the mainscreen where redpill folk can chip in with some $ and get seen within the app. If this interests you, contact us via the form within the app)
 
