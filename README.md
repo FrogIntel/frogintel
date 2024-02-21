@@ -35,17 +35,17 @@ In an era where access to unfiltered information is increasingly under scrutiny,
 
 Company Overview
 
-Name: Frog Intel
+• Name: Frog Intel
 
-Year Founded: 2023
+• Year Founded: 2023
 
-Type of Company: Information App
+• Type of Company: Information App
 
-HQ Location: Remote
+• HQ Location: Remote
 
-Startup Founders: Anodev Anderson - Head Developers
+• Startup Founders: Anodev Anderson - Head Developers
 
-One-Liner: Get Educated Fren..
+• One-Liner: Get Educated Fren..
 
 
 
