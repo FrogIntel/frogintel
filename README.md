@@ -159,7 +159,7 @@ Frog Intel funding is out of pocket. It's not people funded, nor will it ask for
 Download the front of the card by downloading the banner at the top of the github page.
 
 👇 Below is the rear of the business card
-![BUSINESS CARD REAR](https://github.com/FrogIntel/frogintel/assets/142356943/265aa45f-8e2d-4ddf-ab4b-bef983178fa4)
+![businesscarddesign_21022024_081310](https://github.com/FrogIntel/frogintel/assets/142356943/39370be3-4f50-4a41-b10e-1420964deb1e)
 
 
 # Road Map
