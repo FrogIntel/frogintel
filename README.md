@@ -18,7 +18,7 @@ https://github.com/FrogIntel/frogintel/releases
 
 Hey Frens, a team of Admins and Anons inside the truther community have compiled a redpill 💊 Android 🤖 application called Frog Intel 🐸, launched May 5th 2023.
 
-During 2023 it was removed from the Play Store and asked by Google to be dumbed down removing any contradicting health information regarding COVID-19. This included removing entire sections, so we left it in.
+In 2023 it was removed from the Play Store and asked by Google to be dumbed down removing any contradicting health information regarding COVID-19. This included removing entire sections, so we left it in.
 
 # REVIEWS
 <details>
@@ -137,7 +137,7 @@ QAlerts, QIntel, QResearch, FallCabal, Wikileaks, VTVault, Truth Social, AndWeKn
 ➡ Download @ Github (APK file; version 4.1)
 https://github.com/FrogIntel/frogintel/releases
 
-➡ Download @ Aptoide (APK file; version 3.9)
+➡ Download @ Aptoide (APK file; version 3.9) 
 https://frog-intel.en.aptoide.com/app
 
 ➡ Download @ Telegram (APK file; version 4.1)
