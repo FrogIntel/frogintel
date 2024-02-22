@@ -13,9 +13,9 @@ https://github.com/FrogIntel
 👉 Download Now!
 https://github.com/FrogIntel/frogintel/releases
 
-- Current App Version: 4.1 Pre-Release
+- Current App Version: 4.2
 - Virus Total https://t.ly/-G5zo
-- Current Home Screen Version: 5.2
+- Current Home Screen Version: 5.3
 
 Hey Frens, a team of Admins and Anons inside the truther community have compiled a redpill 💊 Android 🤖 application called Frog Intel 🐸, launched May 5th 2023.
 
@@ -169,10 +169,10 @@ QAlerts, QIntel, QResearch, FallCabal, Wikileaks, VTVault, Truth Social, AndWeKn
 
 # DOWNLOAD NOW! 👇
 
-➡ Download @ Github (APK file; version 4.1)
+➡ Download @ Github (APK file; version 4.2)
 https://github.com/FrogIntel/frogintel/releases
 
-➡ Download @ Telegram (APK file; version 4.1)
+➡ Download @ Telegram (APK file; version 4.2)
 https://t.me/frogintel/348
 
 ➡ Download @ Aptoide (APK file; version 3.9)
