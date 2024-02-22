@@ -173,7 +173,7 @@ QAlerts, QIntel, QResearch, FallCabal, Wikileaks, VTVault, Truth Social, AndWeKn
 https://github.com/FrogIntel/frogintel/releases
 
 ➡ Download @ Telegram (APK file; version 4.1)
-https://t.me/frogintel/341
+https://t.me/frogintel/348
 
 ➡ Download @ Aptoide (APK file; version 3.9)
 https://frog-intel.en.aptoide.com/app
