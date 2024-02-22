@@ -178,14 +178,16 @@ https://t.me/frogintel/341
 ➡ Download @ Aptoide (APK file; version 3.9)
 https://frog-intel.en.aptoide.com/app
 
-Apps From Unknown Sources:
+**APK SIGNATURE CHANGE:** Had an issue with the signing key as was made using incorrect app so signing key has changed, this means a reinstall is required for the latest pre-release. A main part of the project is doing most the developer work via an Android itself not desktop, meaning can edit on the go. Made by Android for Android.
+
+**Apps From Unknown Sources:**
 Download requires user to enable unknown sources for installing the apk file.
-If you download the file in Chrome, when opening the file and the warning pops up, click into settings > chrome > enable unknown sources.
+If you download the file in Chrome, when opening the file and the warning pops up, click settings that is displayed on the pop up > chrome > enable unknown sources.
 If you download the file in Telegram, do the same but find telegram and when prompted click into settings and enable unknown sources via Telegram.
 
-Feedback is essential to the development of the application, if it is of use to you, please feel free to rate it or provide feedback in the channel or app.
+**Feedback is essential to the development of the application,** if it is of use to you, please feel free to rate it or provide feedback in the channel or app.
 
-App has adverts built in due to the development service but these are later nulled.
+**App has adverts built in due to the development service but these are later nulled.**
 
 # Help Spread Awareness Of Frog Intel
 
