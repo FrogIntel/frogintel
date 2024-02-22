@@ -280,7 +280,7 @@ The Mentor
 
 Volume One, Issue 7, Phile 3 of 10
 
-
+https://youtu.be/ecKP23EcXH4
 </details>
 <details>
  <summary>
@@ -350,7 +350,7 @@ Aaron Swartz
 
 July 2008, Eremo, Italy
 
-https://youtu.be/ecKP23EcXH4
+https://youtu.be/pk8taa_u29U
 </details>
 <details>
  <summary>
@@ -404,6 +404,8 @@ This is our manifest. The Cyberpunks' Manifest.*
 February 14, 1997
 
 Christian As. Kirtchev
+
+https://youtu.be/e7QvPgEquUk
 </details>
 
 # Road Map
