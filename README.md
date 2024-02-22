@@ -178,7 +178,7 @@ https://t.me/frogintel/341
 ➡ Download @ Aptoide (APK file; version 3.9)
 https://frog-intel.en.aptoide.com/app
 
-**APK SIGNATURE CHANGE:** Had an issue with the signing key as was made using incorrect app so signing key has changed, this means a reinstall is required for the latest pre-release. A main part of the project is doing most the developer work via an Android itself not desktop, meaning can edit on the go. Made by Android for Android.
+**APK SIGNATURE CHANGE:** Had an issue with the signing key as was made using incorrect app and corrupted the file so signing key has changed, **this means a reinstall is required for any version after 4.0.** A main part of the project is doing most the developer work via an Android itself not desktop, meaning can edit on the go. Made by Android for Android.
 
 **Apps From Unknown Sources:**
 Download requires user to enable unknown sources for installing the apk file.
@@ -415,7 +415,7 @@ https://youtu.be/e7QvPgEquUk
 - Browser bookmark extension
 - Update Aptoide page
 - Setup a Sponsorship Section / Tab for redpill folk
-(App is free and has adverts nulled, so to generate some form of return, a sponsorship area will be setup away from the mainscreen where redpill folk can chip in with some $ and get seen within the app. If this interests you, contact us via the form within the app)
+(App is free, funded from pocket and has adverts nulled, to generate some form of return to cover developer costs only, a sponsorship area will be setup away from the mainscreen where redpill folk can chip in with some $ and get seen within the app. Not everything will be allowed in the app. If this interests you, contact us via the form within the app)
 
 # App Disclaimer 📄
 - Not All Content In The App Is Correct.
