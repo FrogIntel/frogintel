@@ -1,1 +1,1 @@
-1.4.0
+task ':browser:browser:writeVersionFile' property 'version'
