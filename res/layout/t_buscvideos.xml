@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    android:id="@id/drawer_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@id/ll_princ"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <RelativeLayout
+            android:orientation="horizontal"
+            android:id="@id/barratop"
+            android:background="#ffffffff"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <RelativeLayout
+                android:orientation="horizontal"
+                android:id="@id/ll_filtros"
+                android:background="#ffffffff"
+                android:visibility="gone"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="70.0dip"
+                android:layout_alignParentLeft="true"
+                android:layout_centerInParent="true"
+                android:layout_marginEnd="70.0dip"
+                android:layout_alignParentStart="true">
+                <ImageView
+                    android:id="@id/iv_filtro"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30.0dip"
+                    android:src="@drawable/filtro"
+                    android:adjustViewBounds="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerInParent="true"
+                    android:layout_alignParentStart="true" />
+                <TextView
+                    android:textColor="#ff000000"
+                    android:id="@id/tv_filtrar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5.0dip"
+                    android:text="@string/filtrar"
+                    android:maxLines="1"
+                    android:layout_toRightOf="@id/iv_filtro"
+                    android:layout_centerInParent="true"
+                    android:layout_toEndOf="@id/iv_filtro" />
+                <TextView
+                    android:textColor="#ff000000"
+                    android:id="@id/tv_ftipo"
+                    android:visibility="gone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5.0dip"
+                    android:maxLines="1"
+                    android:layout_toRightOf="@id/tv_filtrar"
+                    android:layout_centerInParent="true"
+                    android:layout_toEndOf="@id/tv_filtrar" />
+                <TextView
+                    android:textColor="#ff000000"
+                    android:ellipsize="end"
+                    android:id="@id/tv_fcat"
+                    android:visibility="gone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5.0dip"
+                    android:maxLines="1"
+                    android:layout_toRightOf="@id/tv_ftipo"
+                    android:layout_centerInParent="true"
+                    android:layout_toEndOf="@id/tv_ftipo" />" </RelativeLayout>
+            <ImageView
+                android:id="@id/btnperfil"
+                android:visibility="gone"
+                android:layout_width="50.0dip"
+                android:layout_height="50.0dip"
+                android:layout_marginTop="5.0dip"
+                android:layout_marginRight="10.0dip"
+                android:layout_marginBottom="5.0dip"
+                android:src="@drawable/perfil"
+                android:layout_alignParentRight="true"
+                android:layout_centerInParent="true"
+                android:layout_marginEnd="10.0dip"
+                android:layout_alignParentEnd="true" />
+        </RelativeLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:id="@id/barratop_usu"
+            android:background="#ffffffff"
+            android:visibility="gone"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_gravity="center_vertical"
+                android:id="@id/iv_cerrar"
+                android:layout_width="50.0dip"
+                android:layout_height="50.0dip"
+                android:layout_margin="10.0dip"
+                android:src="@drawable/close_black" />
+            <TextView
+                android:textSize="16.0dip"
+                android:textColor="#ff000000"
+                android:ellipsize="end"
+                android:layout_gravity="center_vertical"
+                android:id="@id/tv_nombreusu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10.0dip"
+                android:maxLines="1" />
+        </LinearLayout>
+        <View
+            android:background="#ffe0e0e0"
+            android:layout_width="fill_parent"
+            android:layout_height="1.0dip" />
+        <RelativeLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+            <RelativeLayout
+                android:id="@id/rl_fondo"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_above="@id/navigation_b">
+                <ImageView
+                    android:id="@id/iv_fondo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true" />
+                <FrameLayout
+                    android:id="@id/fl_videos"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_above="@id/ll_ad">
+                    <androidx.recyclerview.widget.RecyclerView
+                        android:id="@id/my_recycler_view"
+                        android:scrollbars="vertical"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:divider="#ffff0000" />
+                    <ProgressBar
+                        android:layout_gravity="bottom|center"
+                        android:id="@id/pb_videos"
+                        android:visibility="gone"
+                        android:layout_width="38.0dip"
+                        android:layout_height="38.0dip"
+                        android:layout_margin="10.0dip" />
+                    <ImageView
+                        android:layout_gravity="end|bottom|center"
+                        android:id="@id/btncrearvid"
+                        android:layout_width="56.0dip"
+                        android:layout_height="56.0dip"
+                        android:layout_margin="20.0dip"
+                        android:src="@drawable/mas_btn" />
+                </FrameLayout>
+                <LinearLayout
+                    android:layout_gravity="center_horizontal"
+                    android:orientation="vertical"
+                    android:id="@id/ll_ad"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerHorizontal="true" />
+            </RelativeLayout>
+            <include
+                layout="@layout/bottom_menu" />
+        </RelativeLayout>
+    </LinearLayout>
+    <ListView
+        android:layout_gravity="start"
+        android:id="@id/left_drawer"
+        android:layout_width="240.0dip"
+        android:layout_height="fill_parent"
+        android:choiceMode="singleChoice" />
+</androidx.drawerlayout.widget.DrawerLayout>

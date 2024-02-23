@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:id="@id/layout_root"
+    android:padding="10.0dip"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+        android:textSize="17.0sp"
+        android:autoLink="web"
+        android:id="@id/message"
+        android:scrollbars="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0" />
+    <CheckBox
+        android:textStyle="bold|italic"
+        android:id="@id/skip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20.0dip"
+        android:text="@string/nomostrarmas"
+        android:layout_weight="0.0" />
+</LinearLayout>

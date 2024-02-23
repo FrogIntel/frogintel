@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    android:id="@id/drawer_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@id/ll_princ"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <RelativeLayout
+            android:id="@id/rl_fondo"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0">
+            <ImageView
+                android:id="@id/iv_fondo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true" />
+            <ScrollView
+                android:id="@id/sv_princ"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0">
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:id="@id/ll_oficinas"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent" />
+            </ScrollView>
+        </RelativeLayout>
+        <LinearLayout
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical"
+            android:id="@id/ll_ad"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <include
+            layout="@layout/bottom_menu" />
+    </LinearLayout>
+    <ListView
+        android:layout_gravity="start"
+        android:id="@id/left_drawer"
+        android:layout_width="240.0dip"
+        android:layout_height="fill_parent"
+        android:choiceMode="singleChoice" />
+</androidx.drawerlayout.widget.DrawerLayout>

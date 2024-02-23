@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="avisos_a">
+        <item>ايقونة وصوت</item>
+        <item>ايقونة فقط</item>
+        <item>بدون اشعارات</item>
+    </string-array>
+    <string-array name="coments_a">
+        <item>اسمح للجميع بالتعليق</item>
+        <item>لا تسمح</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>أسرع بـ 0.25 مرة</item>
+        <item>أسرع بـ 0.5 مرات</item>
+        <item>أسرع بـ 0.75 مرة</item>
+        <item>عادية</item>
+        <item>أسرع بـ 1.25 مرة</item>
+        <item>أسرع بـ 1.5 مرة</item>
+        <item>أسرع بمرتين</item>
+    </string-array>
+    <string-array name="idavisos_a">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="idcoments_a">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="idprivados_a">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="idsexo_a">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="privado_opcs">
+        <item>فتح المحادثة الخاصة</item>
+        <item>ليس الآن</item>
+        <item>حظر هذا المستخدم</item>
+        <item>اريد ان اغلق الخاص</item>
+    </string-array>
+    <string-array name="privados_a">
+        <item>السماح بالخاص</item>
+        <item>لا تسمح</item>
+    </string-array>
+    <string-array name="sexo_a">
+        <item>اختيار..</item>
+        <item>ذكر</item>
+        <item>انثى</item>
+    </string-array>
+</resources>

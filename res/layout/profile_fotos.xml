@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@id/tl_fotos"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="20.0dip"
+    android:layout_marginBottom="20.0dip"
+    android:layout_marginStart="20.0dip"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout
+        android:id="@id/rl_cabfotos"
+        android:layout_width="250.0dip"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10.0dip"
+        android:layout_marginTop="10.0dip"
+        android:layout_marginRight="10.0dip">
+        <FrameLayout
+            android:id="@id/fl_menosfotos"
+            android:visibility="invisible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+            <ImageView
+                android:id="@id/iv_menosfotos_fondo_n"
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/btn_fondo_p_n" />
+            <ImageView
+                android:id="@id/iv_menosfotos_fondo_b"
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/btn_fondo_p_b" />
+            <ImageView
+                android:id="@id/iv_menosfotos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:rotationY="@integer/angle_rtl_180" />
+        </FrameLayout>
+        <TextView
+            android:id="@id/tv_imagenes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/imagenes"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true" />
+        <FrameLayout
+            android:id="@id/fl_masfotos"
+            android:visibility="invisible"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true">
+            <ImageView
+                android:id="@id/iv_masfotos_fondo_n"
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/btn_fondo_p_n" />
+            <ImageView
+                android:id="@id/iv_masfotos_fondo_b"
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/btn_fondo_p_b" />
+            <ImageView
+                android:id="@id/iv_masfotos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:rotationY="@integer/angle_rtl_180" />
+        </FrameLayout>
+        <ProgressBar
+            android:id="@id/pb_masfotos"
+            android:visibility="invisible"
+            android:layout_width="40.0dip"
+            android:layout_height="40.0dip"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+        <ProgressBar
+            android:id="@id/pb_masfotos_inv"
+            android:visibility="invisible"
+            android:layout_width="40.0dip"
+            android:layout_height="40.0dip"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            style="@style/pb_inverse" />
+    </RelativeLayout>
+    <LinearLayout
+        android:gravity="start"
+        android:id="@id/ll_anyadirfoto"
+        android:paddingTop="10.0dip"
+        android:visibility="gone"
+        android:layout_width="250.0dip"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10.0dip"
+        android:layout_below="@id/rl_cabfotos"
+        android:layout_marginStart="10.0dip">
+        <TextView
+            android:textStyle="bold"
+            android:gravity="center"
+            android:id="@id/btnfotos"
+            android:padding="10.0dip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/anyadir" />
+    </LinearLayout>
+    <TableLayout
+        android:padding="5.0dip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ll_anyadirfoto">
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5.0dip">
+                <ImageView
+                    android:id="@id/iv_f1"
+                    android:visibility="gone"
+                    android:layout_width="120.0dip"
+                    android:layout_height="150.0dip"
+                    android:scaleType="centerCrop"
+                    android:adjustViewBounds="true" />
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:id="@id/ll_likes1"
+                    android:background="#33000000"
+                    android:padding="5.0dip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentStart="true">
+                    <ImageView
+                        android:layout_gravity="center_vertical"
+                        android:layout_width="25.0dip"
+                        android:layout_height="25.0dip"
+                        android:src="@drawable/like" />
+                    <TextView
+                        android:textColor="#ffffffff"
+                        android:layout_gravity="center_vertical"
+                        android:id="@id/tv_likes1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5.0dip"
+                        android:layout_marginStart="5.0dip" />
+                </LinearLayout>
+                <ProgressBar
+                    android:id="@id/pb_1"
+                    android:visibility="gone"
+                    android:layout_width="40.0dip"
+                    android:layout_height="40.0dip"
+                    android:layout_centerInParent="true" />
+                <ProgressBar
+                    android:id="@id/pb_1_inv"
+                    android:visibility="gone"
+                    android:layout_width="40.0dip"
+                    android:layout_height="40.0dip"
+                    android:layout_centerInParent="true"
+                    style="@style/pb_inverse" />
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5.0dip">
+                <ImageView
+                    android:id="@id/iv_f2"
+                    android:visibility="gone"
+                    android:layout_width="120.0dip"
+                    android:layout_height="150.0dip"
+                    android:scaleType="centerCrop"
+                    android:adjustViewBounds="true" />
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:id="@id/ll_likes2"
+                    android:background="#33000000"
+                    android:padding="5.0dip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentStart="true">
+                    <ImageView
+                        android:layout_gravity="center_vertical"
+                        android:layout_width="25.0dip"
+                        android:layout_height="25.0dip"
+                        android:src="@drawable/like" />
+                    <TextView
+                        android:textColor="#ffffffff"
+                        android:layout_gravity="center_vertical"
+                        android:id="@id/tv_likes2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5.0dip"
+                        android:layout_marginStart="5.0dip" />
+                </LinearLayout>
+                <ProgressBar
+                    android:id="@id/pb_2"
+                    android:visibility="gone"
+                    android:layout_width="40.0dip"
+                    android:layout_height="40.0dip"
+                    android:layout_centerInParent="true" />
+                <ProgressBar
+                    android:id="@id/pb_2_inv"
+                    android:visibility="gone"
+                    android:layout_width="40.0dip"
+                    android:layout_height="40.0dip"
+                    android:layout_centerInParent="true"
+                    style="@style/pb_inverse" />
+            </RelativeLayout>
+        </TableRow>
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5.0dip">
+                <ImageView
+                    android:id="@id/iv_f3"
+                    android:visibility="gone"
+                    android:layout_width="120.0dip"
+                    android:layout_height="150.0dip"
+                    android:scaleType="centerCrop"
+                    android:adjustViewBounds="true" />
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:id="@id/ll_likes3"
+                    android:background="#33000000"
+                    android:padding="5.0dip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentStart="true">
+                    <ImageView
+                        android:layout_gravity="center_vertical"
+                        android:layout_width="25.0dip"
+                        android:layout_height="25.0dip"
+                        android:src="@drawable/like" />
+                    <TextView
+                        android:textColor="#ffffffff"
+                        android:layout_gravity="center_vertical"
+                        android:id="@id/tv_likes3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5.0dip"
+                        android:layout_marginStart="5.0dip" />
+                </LinearLayout>
+                <ProgressBar
+                    android:id="@id/pb_3"
+                    android:visibility="gone"
+                    android:layout_width="40.0dip"
+                    android:layout_height="40.0dip"
+                    android:layout_centerInParent="true" />
+                <ProgressBar
+                    android:id="@id/pb_3_inv"
+                    android:visibility="gone"
+                    android:layout_width="40.0dip"
+                    android:layout_height="40.0dip"
+                    android:layout_centerInParent="true"
+                    style="@style/pb_inverse" />
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5.0dip">
+                <ImageView
+                    android:id="@id/iv_f4"
+                    android:visibility="gone"
+                    android:layout_width="120.0dip"
+                    android:layout_height="150.0dip"
+                    android:scaleType="centerCrop"
+                    android:adjustViewBounds="true" />
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:id="@id/ll_likes4"
+                    android:background="#33000000"
+                    android:padding="5.0dip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentStart="true">
+                    <ImageView
+                        android:layout_gravity="center_vertical"
+                        android:layout_width="25.0dip"
+                        android:layout_height="25.0dip"
+                        android:src="@drawable/like" />
+                    <TextView
+                        android:textColor="#ffffffff"
+                        android:layout_gravity="center_vertical"
+                        android:id="@id/tv_likes4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5.0dip"
+                        android:layout_marginStart="5.0dip" />
+                </LinearLayout>
+                <ProgressBar
+                    android:id="@id/pb_4"
+                    android:visibility="gone"
+                    android:layout_width="40.0dip"
+                    android:layout_height="40.0dip"
+                    android:layout_centerInParent="true" />
+                <ProgressBar
+                    android:id="@id/pb_4_inv"
+                    android:visibility="gone"
+                    android:layout_width="40.0dip"
+                    android:layout_height="40.0dip"
+                    android:layout_centerInParent="true"
+                    style="@style/pb_inverse" />
+            </RelativeLayout>
+        </TableRow>
+    </TableLayout>
+</RelativeLayout>

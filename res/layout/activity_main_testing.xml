@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.core.widget.NestedScrollView
+        android:id="@id/commandScroll"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/viewScroll">
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:orientation="vertical"
+            android:id="@id/commands"
+            android:padding="32.0dip"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+            <androidx.appcompat.widget.AppCompatButton
+                android:textSize="14.0sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:id="@id/initialize"
+                android:background="#ffb389a2"
+                android:layout_width="fill_parent"
+                android:layout_height="56.0dip"
+                android:layout_marginBottom="24.0dip"
+                android:text="INITIALIZE SERVICES" />
+            <androidx.appcompat.widget.AppCompatButton
+                android:textSize="14.0sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:id="@id/buildLocationPacket"
+                android:background="#ffb389a2"
+                android:layout_width="fill_parent"
+                android:layout_height="56.0dip"
+                android:layout_marginBottom="24.0dip"
+                android:text="BUILD &amp; SEND LOCATION" />
+            <androidx.appcompat.widget.AppCompatButton
+                android:textSize="14.0sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:id="@id/buildMnsiPacket"
+                android:background="#ffb389a2"
+                android:layout_width="fill_parent"
+                android:layout_height="56.0dip"
+                android:layout_marginBottom="24.0dip"
+                android:text="BUILD &amp; SEND MNSI" />
+            <androidx.appcompat.widget.AppCompatButton
+                android:textSize="14.0sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:id="@id/sendFakeData"
+                android:background="#ffb389a2"
+                android:layout_width="fill_parent"
+                android:layout_height="56.0dip"
+                android:layout_marginBottom="24.0dip"
+                android:text="SEND FAKE DATA" />
+        </androidx.appcompat.widget.LinearLayoutCompat>
+    </androidx.core.widget.NestedScrollView>
+    <androidx.core.widget.NestedScrollView
+        android:id="@id/viewScroll"
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="380.0dip"
+        android:layout_alignParentBottom="true">
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:orientation="vertical"
+            android:id="@id/view"
+            android:padding="32.0dip"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+    </androidx.core.widget.NestedScrollView>
+</RelativeLayout>

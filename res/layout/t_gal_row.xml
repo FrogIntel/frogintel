@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:id="@id/iv_usugrid"
+        android:layout_width="fill_parent"
+        android:layout_height="125.0dip"
+        android:scaleType="centerCrop"
+        android:adjustViewBounds="true" />
+    <ProgressBar
+        android:id="@id/pb_foto"
+        android:visibility="gone"
+        android:layout_width="40.0dip"
+        android:layout_height="40.0dip"
+        android:layout_centerInParent="true" />
+    <ProgressBar
+        android:id="@id/pb_foto_inv"
+        android:visibility="gone"
+        android:layout_width="40.0dip"
+        android:layout_height="40.0dip"
+        android:layout_centerInParent="true"
+        style="@style/pb_inverse" />
+</RelativeLayout>

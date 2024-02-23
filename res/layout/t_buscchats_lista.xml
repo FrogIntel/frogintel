@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    android:id="@id/drawer_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@id/ll_princ"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <LinearLayout
+            android:id="@id/ll_cabe"
+            android:visibility="gone"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_gravity="center_vertical"
+                android:id="@id/iv_cabe"
+                android:layout_width="wrap_content"
+                android:layout_height="30.0dip"
+                android:src="@drawable/ic_atras_light"
+                android:adjustViewBounds="true"
+                android:rotationY="@integer/angle_rtl_180" />
+            <TextView
+                android:layout_gravity="center_vertical"
+                android:id="@id/tv_cabe"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="true" />
+        </LinearLayout>
+        <FrameLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0">
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@id/my_recycler_view"
+                android:scrollbars="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:divider="#ffff0000" />
+            <ProgressBar
+                android:layout_gravity="bottom|center"
+                android:id="@id/pb_chats"
+                android:visibility="gone"
+                android:layout_width="38.0dip"
+                android:layout_height="38.0dip"
+                android:layout_margin="10.0dip" />
+        </FrameLayout>
+        <LinearLayout
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical"
+            android:id="@id/ll_ad"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <include
+            layout="@layout/bottom_menu" />
+    </LinearLayout>
+    <ListView
+        android:layout_gravity="start"
+        android:id="@id/left_drawer"
+        android:layout_width="240.0dip"
+        android:layout_height="fill_parent"
+        android:choiceMode="singleChoice" />
+</androidx.drawerlayout.widget.DrawerLayout>

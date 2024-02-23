@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    android:id="@id/drawer_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@id/ll_princ"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <ScrollView
+            android:id="@id/scrollView1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0">
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="5.0dip" />
+                <TableLayout
+                    android:id="@id/tableLayout1"
+                    android:padding="5.0dip"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent">
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5.0dip"
+                        android:layout_marginBottom="5.0dip">
+                        <ImageView
+                            android:id="@id/iv_email"
+                            android:layout_width="25.0dip"
+                            android:layout_height="25.0dip"
+                            android:src="@drawable/email" />
+                        <LinearLayout
+                            android:orientation="vertical"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content">
+                            <TextView
+                                android:textStyle="bold"
+                                android:id="@id/tv_tit"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/tit_enviar_petic" />
+                            <View
+                                android:id="@id/v_sep"
+                                android:background="#ffffffff"
+                                android:layout_width="fill_parent"
+                                android:layout_height="2.0dip" />
+                        </LinearLayout>
+                    </LinearLayout>
+                    <TableRow
+                        android:id="@id/tr_to"
+                        android:visibility="gone"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+                        <TextView
+                            android:layout_gravity="center_vertical"
+                            android:id="@id/tv_to_lit"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/petic_to" />
+                        <TextView
+                            android:id="@id/tv_to"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5.0dip"
+                            android:text="" />
+                    </TableRow>
+                    <TableRow
+                        android:id="@id/tr_nombre"
+                        android:visibility="gone"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+                        <LinearLayout
+                            android:layout_gravity="center_vertical"
+                            android:orientation="vertical"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content">
+                            <TextView
+                                android:id="@id/tv_nombre"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/petic_nombre" />
+                            <TextView
+                                android:textStyle="italic"
+                                android:id="@id/opcional_nombre"
+                                android:visibility="gone"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/opcional" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:orientation="horizontal"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1.0">
+                            <EditText
+                                android:id="@id/c_nombre"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text=""
+                                android:width="300.0dip"
+                                android:maxLength="255"
+                                android:inputType="textPersonName"
+                                android:textCursorDrawable="@null" />
+                        </LinearLayout>
+                    </TableRow>
+                    <TableRow
+                        android:id="@id/tr_email"
+                        android:visibility="gone"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+                        <LinearLayout
+                            android:layout_gravity="center_vertical"
+                            android:orientation="vertical"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content">
+                            <TextView
+                                android:id="@id/tv_email"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/petic_email" />
+                            <TextView
+                                android:textStyle="italic"
+                                android:id="@id/opcional_email"
+                                android:visibility="gone"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/opcional" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:orientation="horizontal"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1.0">
+                            <EditText
+                                android:id="@id/c_email"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text=""
+                                android:width="350.0dip"
+                                android:maxLength="255"
+                                android:inputType="textEmailAddress"
+                                android:textCursorDrawable="@null" />
+                        </LinearLayout>
+                    </TableRow>
+                    <TableRow
+                        android:id="@id/tr_tel"
+                        android:visibility="gone"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+                        <LinearLayout
+                            android:layout_gravity="center_vertical"
+                            android:orientation="vertical"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content">
+                            <TextView
+                                android:id="@id/tv_tel"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/petic_tel" />
+                            <TextView
+                                android:textStyle="italic"
+                                android:id="@id/opcional_tel"
+                                android:visibility="gone"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/opcional" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:orientation="horizontal"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content">
+                            <EditText
+                                android:id="@id/c_telefono"
+                                android:layout_width="140.0dip"
+                                android:layout_height="wrap_content"
+                                android:text=""
+                                android:numeric="integer"
+                                android:inputType="phone"
+                                android:textCursorDrawable="@null" />
+                        </LinearLayout>
+                    </TableRow>
+                    <TableRow
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10.0dip"
+                        android:layout_marginBottom="10.0dip">
+                        <TextView
+                            android:id="@id/tv_msg"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/petic_msg" />
+                        <LinearLayout
+                            android:orientation="horizontal"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1.0">
+                            <EditText
+                                android:gravity="top"
+                                android:id="@id/c_observ"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text=""
+                                android:lines="4"
+                                android:width="700.0dip"
+                                android:inputType="textLongMessage|textMultiLine"
+                                android:textCursorDrawable="@null" />
+                        </LinearLayout>
+                    </TableRow>
+                    <TableRow
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="3.0dip">
+                        <View
+                            android:layout_width="1.0dip"
+                            android:layout_height="1.0dip" />
+                        <FrameLayout
+                            android:layout_gravity="start"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content">
+                            <ImageView
+                                android:id="@id/iv_btn_fondo_n"
+                                android:visibility="gone"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/btn_fondo_n" />
+                            <ImageView
+                                android:id="@id/iv_btn_fondo_b"
+                                android:visibility="gone"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/btn_fondo_b" />
+                            <ImageView
+                                android:id="@id/button1"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:rotationY="@integer/angle_rtl_180" />
+                        </FrameLayout>
+                    </TableRow>
+                </TableLayout>
+            </LinearLayout>
+        </ScrollView>
+        <LinearLayout
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical"
+            android:id="@id/ll_ad"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <include
+            layout="@layout/bottom_menu" />
+    </LinearLayout>
+    <ListView
+        android:layout_gravity="start"
+        android:id="@id/left_drawer"
+        android:layout_width="240.0dip"
+        android:layout_height="fill_parent"
+        android:choiceMode="singleChoice" />
+</androidx.drawerlayout.widget.DrawerLayout>

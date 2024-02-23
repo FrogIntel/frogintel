@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable
+    android:label="@string/buscar"
+    android:searchSuggestAuthority="frog.intel.MySuggestionProvider"
+    android:searchSuggestPath="stores"
+    android:searchSuggestIntentAction="android.intent.action.VIEW"
+    android:voiceSearchMode="launchRecognizer|showVoiceSearchButton"
+    xmlns:android="http://schemas.android.com/apk/res/android" />

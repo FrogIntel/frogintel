@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@id/rl_img"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout
+        android:id="@id/fl_img"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@id/img"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true" />
+        <ProgressBar
+            android:layout_gravity="center"
+            android:id="@id/pb_main"
+            android:visibility="gone"
+            android:layout_width="40.0dip"
+            android:layout_height="40.0dip"
+            android:layout_margin="20.0dip" />
+        <ProgressBar
+            android:layout_gravity="center"
+            android:id="@id/pb_main_inv"
+            android:visibility="gone"
+            android:layout_width="40.0dip"
+            android:layout_height="40.0dip"
+            android:layout_margin="20.0dip"
+            style="@style/pb_inverse" />
+    </FrameLayout>
+    <LinearLayout
+        android:gravity="start"
+        android:orientation="vertical"
+        android:id="@id/ll_img_descr"
+        android:background="#66000000"
+        android:paddingLeft="16.0dip"
+        android:paddingTop="16.0dip"
+        android:paddingRight="16.0dip"
+        android:paddingBottom="16.0dip"
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/fl_img">
+        <TextView
+            android:id="@id/tv_img_descr"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</RelativeLayout>

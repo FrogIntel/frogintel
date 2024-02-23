@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    android:id="@id/card_opc"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    card_view:cardBackgroundColor="#ffffffff"
+    card_view:cardCornerRadius="3.0dip"
+    card_view:cardElevation="2.0dip"
+    card_view:cardPreventCornerOverlap="true"
+    cardUseCompatPadding="true"
+    contentPadding="0.0dip"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <FrameLayout
+            android:id="@id/fl_card_opc"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent">
+            <ImageView
+                android:id="@id/iv_card_opc"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:adjustViewBounds="true" />
+            <ProgressBar
+                android:layout_gravity="center"
+                android:id="@id/pb_card_opc"
+                android:visibility="gone"
+                android:layout_width="30.0dip"
+                android:layout_height="30.0dip"
+                android:layout_margin="5.0dip" />
+            <ProgressBar
+                android:layout_gravity="center"
+                android:id="@id/pb_card_opc_inv"
+                android:visibility="gone"
+                android:layout_width="30.0dip"
+                android:layout_height="30.0dip"
+                android:layout_margin="5.0dip"
+                style="@style/pb_inverse" />
+        </FrameLayout>
+        <LinearLayout
+            android:orientation="vertical"
+            android:id="@id/ll_opc_txt"
+            android:visibility="gone"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8.0dip">
+            <TextView
+                android:id="@id/tv_card_tit"
+                android:visibility="gone"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:maxLines="1" />
+            <TextView
+                android:id="@id/tv_card_subtit"
+                android:visibility="gone"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:maxLines="1" />
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

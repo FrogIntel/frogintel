@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back_button_text">Gå tilbake</string>
+    <string name="error_message_description_text">Det oppsto et problem under innhentingen av mer informasjon om denne annonsen</string>
+    <string name="error_message_text">Noe gikk galt</string>
+    <string name="fallback_image_content_descriptor">Grunn for annonsen</string>
+</resources>

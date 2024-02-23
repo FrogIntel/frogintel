@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:id="@id/iv_usugrid"
+        android:layout_width="fill_parent"
+        android:layout_height="125.0dip"
+        android:scaleType="centerCrop"
+        android:adjustViewBounds="true" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@id/ll_usugrid"
+        android:background="#66000000"
+        android:paddingLeft="10.0dip"
+        android:paddingTop="5.0dip"
+        android:paddingRight="10.0dip"
+        android:paddingBottom="5.0dip"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+        <TextView
+            android:textSize="16.0dip"
+            android:textColor="#ffffffff"
+            android:id="@id/tv_usugrid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true" />
+        <TextView
+            android:textSize="12.0dip"
+            android:textColor="#fffbfbfb"
+            android:id="@id/tv_usugrid2"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@id/ll_conectado"
+        android:visibility="visible"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+        <ImageView
+            android:layout_width="10.0dip"
+            android:layout_height="10.0dip"
+            android:layout_margin="5.0dip"
+            android:src="@drawable/green_indicator"
+            android:adjustViewBounds="true" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@id/ll_favorito_top"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
+        <ImageView
+            android:layout_width="20.0dip"
+            android:layout_height="20.0dip"
+            android:layout_margin="2.0dip"
+            android:src="@drawable/favorito_p"
+            android:adjustViewBounds="true" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@id/ll_favorito_bottom"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true">
+        <ImageView
+            android:layout_width="20.0dip"
+            android:layout_height="20.0dip"
+            android:layout_margin="2.0dip"
+            android:src="@drawable/favorito_p"
+            android:adjustViewBounds="true" />
+    </LinearLayout>
+    <ProgressBar
+        android:id="@id/pb_foto"
+        android:visibility="gone"
+        android:layout_width="40.0dip"
+        android:layout_height="40.0dip"
+        android:layout_centerInParent="true" />
+    <ProgressBar
+        android:id="@id/pb_foto_inv"
+        android:visibility="gone"
+        android:layout_width="40.0dip"
+        android:layout_height="40.0dip"
+        android:layout_centerInParent="true"
+        style="@style/pb_inverse" />
+</RelativeLayout>

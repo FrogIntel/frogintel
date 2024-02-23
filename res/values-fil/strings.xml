@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back_button_text">Bumalik</string>
+    <string name="error_message_description_text">Nagkaroon ng isyu sa pagkuha ng higit pang detalye tungkol sa ad na ito</string>
+    <string name="error_message_text">Nagkaproblema</string>
+    <string name="fallback_image_content_descriptor">Bakit ang Ad na ito</string>
+</resources>

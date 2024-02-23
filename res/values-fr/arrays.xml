@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="avisos_a">
+        <item>Icône et son</item>
+        <item>Seulement icône</item>
+        <item>Aucun</item>
+    </string-array>
+    <string-array name="cats_10_a">
+        <item>Action</item>
+        <item>Aventure</item>
+        <item>Musicals</item>
+        <item>Paris</item>
+        <item>Platesformes</item>
+        <item>Puzzle</item>
+        <item>RPG</item>
+        <item>Racing</item>
+        <item>Simulation</item>
+        <item>Sports</item>
+        <item>Stratégie</item>
+        <item>Éducation</item>
+    </string-array>
+    <string-array name="cats_11_a">
+        <item>Blues,Jazz</item>
+        <item>Classique</item>
+        <item>Contemporain</item>
+        <item>Dance</item>
+        <item>Electro</item>
+        <item>HipHop</item>
+        <item>Instruments</item>
+        <item>Maison</item>
+        <item>Pop</item>
+        <item>Punk</item>
+        <item>Radio</item>
+        <item>Rap</item>
+        <item>Reggaeton</item>
+        <item>Rock</item>
+        <item>Techno</item>
+        <item>Traditionnel</item>
+        <item>Âme</item>
+    </string-array>
+    <string-array name="cats_12_a">
+        <item>Associations</item>
+        <item>Conseils</item>
+        <item>Infirmières</item>
+        <item>Medicine</item>
+    </string-array>
+    <string-array name="cats_13_a">
+        <item>Beauté</item>
+        <item>Célèbre</item>
+        <item>Enfants</item>
+        <item>Famille</item>
+        <item>Grossesse</item>
+        <item>Mode</item>
+        <item>Politique</item>
+        <item>Teens</item>
+    </string-array>
+    <string-array name="cats_14_a">
+        <item>Humour</item>
+        <item>Loisirs</item>
+    </string-array>
+    <string-array name="cats_15_a">
+        <item>Agences</item>
+        <item>Autre</item>
+        <item>Caraïbes</item>
+        <item>Croisières</item>
+        <item>Disneyland</item>
+        <item>Europe</item>
+        <item>Histoires</item>
+        <item>Hôtels</item>
+        <item>Location voiture</item>
+        <item>Lune de miel</item>
+        <item>Neige</item>
+        <item>Offres</item>
+        <item>Seniors</item>
+        <item>Spa</item>
+        <item>Tourisme rural</item>
+        <item>Vols</item>
+    </string-array>
+    <string-array name="cats_1_a">
+        <item>Alimentation</item>
+        <item>Bande dessinée</item>
+        <item>Film</item>
+        <item>Littérature</item>
+        <item>Manga</item>
+        <item>Opéra,Théâtre,Danse</item>
+        <item>Peinture</item>
+        <item>Photo,Design</item>
+        <item>TV</item>
+    </string-array>
+    <string-array name="cats_2_a">
+        <item>Astronomie</item>
+        <item>Clairvoyance</item>
+        <item>Electronic,Mobile</item>
+        <item>Histoire</item>
+        <item>Mathématiques</item>
+        <item>Médecine</item>
+        <item>Météorologie</item>
+        <item>Philosophie</item>
+        <item>Religions</item>
+        <item>Éducation</item>
+    </string-array>
+    <string-array name="cats_3_a">
+        <item>Pays,Régions</item>
+        <item>Villes,Villages</item>
+    </string-array>
+    <string-array name="cats_4_a">
+        <item>Airsoft</item>
+        <item>Arc</item>
+        <item>Athlétisme</item>
+        <item>Aviation</item>
+        <item>Aviron</item>
+        <item>Baseball</item>
+        <item>Basketball</item>
+        <item>Chasse,Pêche</item>
+        <item>Échecs</item>
+        <item>Escalade</item>
+        <item>Fitness</item>
+        <item>Football</item>
+        <item>Golf</item>
+        <item>Handball</item>
+        <item>Hockey</item>
+        <item>Martial arts</item>
+        <item>Moto</item>
+        <item>Paintball</item>
+        <item>Parapente</item>
+        <item>Piscine</item>
+        <item>Riding</item>
+        <item>Rugby</item>
+        <item>Ski</item>
+        <item>Snowboard</item>
+        <item>Sousmarine</item>
+        <item>Surf</item>
+        <item>Tennis</item>
+        <item>Tyr</item>
+        <item>Visite</item>
+        <item>Voile</item>
+        <item>Voitures</item>
+        <item>Vélo</item>
+    </string-array>
+    <string-array name="cats_5_a">
+        <item>Académies</item>
+        <item>Facultés</item>
+        <item>Universités</item>
+        <item>Écoles</item>
+    </string-array>
+    <string-array name="cats_6_a">
+        <item>Banques</item>
+        <item>Bourse</item>
+        <item>Emploi</item>
+        <item>Entreprises</item>
+        <item>Finances</item>
+        <item>Syndicats</item>
+    </string-array>
+    <string-array name="cats_7_a">
+        <item>Animaux</item>
+        <item>Bricolage</item>
+        <item>Décoration</item>
+        <item>Jardin</item>
+        <item>Meubles</item>
+        <item>Électroménagers</item>
+    </string-array>
+    <string-array name="cats_9_a">
+        <item>Astuces</item>
+        <item>Blogs</item>
+        <item>Design graphique</item>
+        <item>Forums</item>
+        <item>Programmation</item>
+        <item>Publicité</item>
+        <item>Ressources</item>
+        <item>Réseau social</item>
+        <item>Sites</item>
+        <item>Software</item>
+        <item>Sécurité</item>
+    </string-array>
+    <string-array name="cats_menu_a">
+        <item>Accueil</item>
+        <item>Business,Finance</item>
+        <item>Cités,Villes</item>
+        <item>Education</item>
+        <item>Film,TV,Art</item>
+        <item>Informatique,Web</item>
+        <item>Jeux</item>
+        <item>Loisirs</item>
+        <item>Musique,Radio</item>
+        <item>Santé</item>
+        <item>Science,Techno.</item>
+        <item>Société</item>
+        <item>Sports</item>
+        <item>Voyage</item>
+    </string-array>
+    <string-array name="coments_a">
+        <item>Permettre</item>
+        <item>Rejeter</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>x 0,25</item>
+        <item>x 0,5</item>
+        <item>x 0,75</item>
+        <item>Normal</item>
+        <item>x 1,25</item>
+        <item>x 1,5</item>
+        <item>x 2</item>
+    </string-array>
+    <string-array name="idavisos_a">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="idcats_10_a">
+        <item>86</item>
+        <item>87</item>
+        <item>92</item>
+        <item>83</item>
+        <item>91</item>
+        <item>85</item>
+        <item>144</item>
+        <item>143</item>
+        <item>88</item>
+        <item>89</item>
+        <item>90</item>
+        <item>93</item>
+    </string-array>
+    <string-array name="idcats_11_a">
+        <item>102</item>
+        <item>94</item>
+        <item>95</item>
+        <item>97</item>
+        <item>98</item>
+        <item>106</item>
+        <item>101</item>
+        <item>99</item>
+        <item>103</item>
+        <item>108</item>
+        <item>104</item>
+        <item>105</item>
+        <item>109</item>
+        <item>107</item>
+        <item>100</item>
+        <item>96</item>
+        <item>110</item>
+    </string-array>
+    <string-array name="idcats_12_a">
+        <item>113</item>
+        <item>114</item>
+        <item>112</item>
+        <item>111</item>
+    </string-array>
+    <string-array name="idcats_13_a">
+        <item>119</item>
+        <item>120</item>
+        <item>116</item>
+        <item>117</item>
+        <item>118</item>
+        <item>121</item>
+        <item>122</item>
+        <item>115</item>
+    </string-array>
+    <string-array name="idcats_14_a">
+        <item>71</item>
+        <item>123</item>
+    </string-array>
+    <string-array name="idcats_15_a">
+        <item>139</item>
+        <item>140</item>
+        <item>142</item>
+        <item>128</item>
+        <item>131</item>
+        <item>141</item>
+        <item>129</item>
+        <item>127</item>
+        <item>137</item>
+        <item>133</item>
+        <item>135</item>
+        <item>134</item>
+        <item>130</item>
+        <item>138</item>
+        <item>136</item>
+        <item>132</item>
+    </string-array>
+    <string-array name="idcats_1_a">
+        <item>3</item>
+        <item>4</item>
+        <item>2</item>
+        <item>10</item>
+        <item>9</item>
+        <item>1</item>
+        <item>11</item>
+        <item>5</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="idcats_2_a">
+        <item>14</item>
+        <item>13</item>
+        <item>6</item>
+        <item>20</item>
+        <item>16</item>
+        <item>19</item>
+        <item>17</item>
+        <item>15</item>
+        <item>21</item>
+        <item>18</item>
+    </string-array>
+    <string-array name="idcats_3_a">
+        <item>23</item>
+        <item>22</item>
+    </string-array>
+    <string-array name="idcats_4_a">
+        <item>28</item>
+        <item>48</item>
+        <item>44</item>
+        <item>49</item>
+        <item>34</item>
+        <item>29</item>
+        <item>26</item>
+        <item>24</item>
+        <item>145</item>
+        <item>45</item>
+        <item>43</item>
+        <item>25</item>
+        <item>46</item>
+        <item>27</item>
+        <item>30</item>
+        <item>39</item>
+        <item>51</item>
+        <item>31</item>
+        <item>42</item>
+        <item>33</item>
+        <item>53</item>
+        <item>32</item>
+        <item>40</item>
+        <item>41</item>
+        <item>35</item>
+        <item>36</item>
+        <item>38</item>
+        <item>47</item>
+        <item>54</item>
+        <item>37</item>
+        <item>50</item>
+        <item>52</item>
+    </string-array>
+    <string-array name="idcats_5_a">
+        <item>58</item>
+        <item>56</item>
+        <item>57</item>
+        <item>55</item>
+    </string-array>
+    <string-array name="idcats_6_a">
+        <item>59</item>
+        <item>64</item>
+        <item>60</item>
+        <item>63</item>
+        <item>62</item>
+        <item>61</item>
+    </string-array>
+    <string-array name="idcats_7_a">
+        <item>70</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+    </string-array>
+    <string-array name="idcats_9_a">
+        <item>76</item>
+        <item>77</item>
+        <item>72</item>
+        <item>78</item>
+        <item>73</item>
+        <item>80</item>
+        <item>79</item>
+        <item>81</item>
+        <item>82</item>
+        <item>74</item>
+        <item>75</item>
+    </string-array>
+    <string-array name="idcats_menu_a">
+        <item>7</item>
+        <item>6</item>
+        <item>3</item>
+        <item>5</item>
+        <item>1</item>
+        <item>9</item>
+        <item>10</item>
+        <item>14</item>
+        <item>11</item>
+        <item>12</item>
+        <item>2</item>
+        <item>13</item>
+        <item>4</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="idcoments_a">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="idprivados_a">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="idsexo_a">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="privado_opcs">
+        <item>Ouvrir la conversation privée</item>
+        <item>Pas maintenant</item>
+        <item>Jamais pour cet utilisateur</item>
+        <item>Ne recevoir aucune privée</item>
+    </string-array>
+    <string-array name="privados_a">
+        <item>Autoriser privées</item>
+        <item>Ne pas autoriser</item>
+    </string-array>
+    <string-array name="sexo_a">
+        <item>Sélectionnez..</item>
+        <item>Homme</item>
+        <item>Femme</item>
+    </string-array>
+</resources>

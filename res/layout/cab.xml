@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:id="@id/cab_id"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:id="@id/cab_grande"
+        android:layout_width="fill_parent"
+        android:layout_height="48.0dip">
+        <ImageView
+            android:gravity="center_vertical"
+            android:id="@id/iv_drawer"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:src="@drawable/ic_drawer"
+            android:adjustViewBounds="true"
+            android:maxWidth="28.0dip"
+            android:contentDescription="Menu" />
+        <ImageView
+            android:id="@id/icohome"
+            android:layout_width="wrap_content"
+            android:layout_height="48.0dip"
+            android:adjustViewBounds="true"
+            android:maxWidth="132.0dip" />
+        <HorizontalScrollView
+            android:layout_gravity="bottom"
+            android:id="@id/hsv_menu"
+            android:scrollbars="none"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0">
+            <LinearLayout
+                android:layout_gravity="bottom"
+                android:orientation="horizontal"
+                android:id="@id/Secciones"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </HorizontalScrollView>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <RelativeLayout
+                android:id="@id/ico_rl_1"
+                android:visibility="gone"
+                android:layout_width="48.0dip"
+                android:layout_height="48.0dip">
+                <ImageView
+                    android:id="@id/ico_1"
+                    android:layout_width="48.0dip"
+                    android:layout_height="48.0dip" />
+                <TextView
+                    android:textSize="14.0sp"
+                    android:textStyle="bold"
+                    android:textColor="#ffffffff"
+                    android:id="@id/ico_tv_1"
+                    android:background="@drawable/badge_shape"
+                    android:visibility="gone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_alignParentRight="true"
+                    android:fontFamily="sans-serif"
+                    android:layout_alignParentEnd="true" />
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@id/ico_rl_2"
+                android:visibility="gone"
+                android:layout_width="48.0dip"
+                android:layout_height="48.0dip">
+                <ImageView
+                    android:id="@id/ico_2"
+                    android:layout_width="48.0dip"
+                    android:layout_height="48.0dip" />
+                <TextView
+                    android:textSize="14.0sp"
+                    android:textStyle="bold"
+                    android:textColor="#ffffffff"
+                    android:id="@id/ico_tv_2"
+                    android:background="@drawable/badge_shape"
+                    android:visibility="gone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_alignParentRight="true"
+                    android:fontFamily="sans-serif"
+                    android:layout_alignParentEnd="true" />
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@id/ico_rl_3"
+                android:visibility="gone"
+                android:layout_width="48.0dip"
+                android:layout_height="48.0dip">
+                <ImageView
+                    android:id="@id/ico_3"
+                    android:layout_width="48.0dip"
+                    android:layout_height="48.0dip" />
+                <TextView
+                    android:textSize="14.0sp"
+                    android:textStyle="bold"
+                    android:textColor="#ffffffff"
+                    android:id="@id/ico_tv_3"
+                    android:background="@drawable/badge_shape"
+                    android:visibility="gone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_alignParentRight="true"
+                    android:fontFamily="sans-serif"
+                    android:layout_alignParentEnd="true" />
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@id/ico_rl_4"
+                android:visibility="gone"
+                android:layout_width="48.0dip"
+                android:layout_height="48.0dip">
+                <ImageView
+                    android:id="@id/ico_4"
+                    android:layout_width="48.0dip"
+                    android:layout_height="48.0dip" />
+                <TextView
+                    android:textSize="14.0sp"
+                    android:textStyle="bold"
+                    android:textColor="#ffffffff"
+                    android:id="@id/ico_tv_4"
+                    android:background="@drawable/badge_shape"
+                    android:visibility="gone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_alignParentRight="true"
+                    android:fontFamily="sans-serif"
+                    android:layout_alignParentEnd="true" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <View
+        android:id="@id/hr_cab"
+        android:layout_width="fill_parent"
+        android:layout_height="2.0dip" />
+</LinearLayout>

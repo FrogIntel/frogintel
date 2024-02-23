@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:background="#ff474646"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+        android:textStyle="bold|italic"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:id="@id/timer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="15.0dip"
+        android:text="@string/apnxt_6_seconds"
+        android:lines="1"
+        android:layout_alignTop="@id/title"
+        android:layout_alignBottom="@id/title"
+        android:layout_alignParentRight="true" />
+    <ImageView
+        android:id="@id/privacy"
+        android:paddingLeft="7.0dip"
+        android:paddingTop="7.0dip"
+        android:paddingRight="7.0dip"
+        android:paddingBottom="7.0dip"
+        android:layout_width="30.0dip"
+        android:layout_height="30.0dip"
+        android:src="@drawable/apnxt_ads_i_icon"
+        android:layout_alignParentLeft="true" />
+    <TextView
+        android:textSize="27.0sp"
+        android:textColor="@android:color/white"
+        android:id="@id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20.0dip"
+        android:layout_marginTop="20.0dip"
+        android:text="@string/apnxt_which_video_title"
+        android:layout_toRightOf="@id/privacy"
+        android:layout_centerHorizontal="true"
+        android:scaleY="1.1" />
+    <TextView
+        android:textSize="27.0sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:ellipsize="end"
+        android:gravity="left"
+        android:id="@id/secondTile"
+        android:paddingLeft="5.0dip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20.0dip"
+        android:text="@string/apnxt_would_you_like"
+        android:lines="1"
+        android:layout_toLeftOf="@id/timer"
+        android:layout_toRightOf="@id/title"
+        android:layout_centerHorizontal="true"
+        android:scaleY="1.1" />
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="20.0dip"
+        android:baselineAligned="false"
+        android:layout_below="@id/title">
+        <include
+            android:id="@id/item1"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            layout="@layout/apnxt_s1t2_item" />
+        <include
+            android:id="@id/item2"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            layout="@layout/apnxt_s1t2_item" />
+    </LinearLayout>
+</RelativeLayout>

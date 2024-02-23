@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout
+        android:id="@id/adFrame"
+        android:focusable="true"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+    <Button
+        android:gravity="center"
+        android:id="@id/buttonClose"
+        android:background="@drawable/wortise_button_close"
+        android:visibility="gone"
+        android:layout_width="32.0dip"
+        android:layout_height="32.0dip"
+        android:layout_margin="15.0dip"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>

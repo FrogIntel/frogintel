@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    android:id="@id/drawer_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@id/ll_princ"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <RelativeLayout
+            android:id="@id/rl_fondo"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0">
+            <ImageView
+                android:id="@id/iv_fondo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true" />
+            <FrameLayout
+                android:id="@id/env_stickers"
+                android:background="@drawable/btn_green"
+                android:focusable="true"
+                android:visibility="gone"
+                android:clickable="true"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16.0dip"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true">
+                <TextView
+                    android:textSize="14.0dip"
+                    android:textStyle="bold"
+                    android:textColor="@android:color/white"
+                    android:ellipsize="end"
+                    android:gravity="center_vertical"
+                    android:layout_gravity="center"
+                    android:background="@android:color/transparent"
+                    android:focusable="false"
+                    android:clickable="false"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:foreground="@android:color/transparent"
+                    android:text="@string/add_to_whatsapp"
+                    android:singleLine="true"
+                    android:drawableLeft="@drawable/sticker_3rdparty_wa"
+                    android:drawablePadding="8.0dip"
+                    android:textAllCaps="true"
+                    android:drawableStart="@drawable/sticker_3rdparty_wa" />
+            </FrameLayout>
+            <GridView
+                android:gravity="center"
+                android:id="@id/grid"
+                android:padding="0.0dip"
+                android:focusable="true"
+                android:focusableInTouchMode="false"
+                android:clickable="true"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_margin="5.0dip"
+                android:drawSelectorOnTop="true"
+                android:horizontalSpacing="5.0dip"
+                android:verticalSpacing="5.0dip"
+                android:stretchMode="columnWidth"
+                android:columnWidth="100.0dip"
+                android:numColumns="auto_fit"
+                android:layout_below="@id/env_stickers">
+                <requestFocus />
+            </GridView>
+        </RelativeLayout>
+        <LinearLayout
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical"
+            android:id="@id/ll_ad"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true" />
+        <include
+            layout="@layout/bottom_menu" />
+    </LinearLayout>
+    <ListView
+        android:layout_gravity="start"
+        android:id="@id/left_drawer"
+        android:layout_width="240.0dip"
+        android:layout_height="fill_parent"
+        android:choiceMode="singleChoice" />
+</androidx.drawerlayout.widget.DrawerLayout>

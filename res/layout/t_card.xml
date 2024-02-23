@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    android:id="@id/drawer_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@id/ll_princ"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <FrameLayout
+            android:orientation="vertical"
+            android:focusableInTouchMode="true"
+            android:layout_width="fill_parent"
+            android:layout_height="0.0dip"
+            android:layout_weight="100.0">
+            <ImageView
+                android:layout_gravity="center"
+                android:id="@id/iv_fondo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <ScrollView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:id="@id/llcards"
+                    android:paddingLeft="8.0dip"
+                    android:paddingTop="4.0dip"
+                    android:paddingRight="8.0dip"
+                    android:paddingBottom="4.0dip"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content">
+                    <ProgressBar
+                        android:id="@id/pb"
+                        android:visibility="gone"
+                        android:layout_width="40.0dip"
+                        android:layout_height="40.0dip" />
+                    <ProgressBar
+                        android:id="@id/pb_inv"
+                        android:visibility="gone"
+                        android:layout_width="40.0dip"
+                        android:layout_height="40.0dip"
+                        style="@style/pb_inverse" />
+                </LinearLayout>
+            </ScrollView>
+        </FrameLayout>
+        <LinearLayout
+            android:gravity="bottom"
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical"
+            android:id="@id/ll_ad"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <include
+            layout="@layout/bottom_menu" />
+    </LinearLayout>
+    <ListView
+        android:layout_gravity="start"
+        android:id="@id/left_drawer"
+        android:layout_width="240.0dip"
+        android:layout_height="fill_parent"
+        android:choiceMode="singleChoice" />
+</androidx.drawerlayout.widget.DrawerLayout>
