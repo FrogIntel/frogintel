@@ -1,4 +1,4 @@
-# Frog Intel Android App
+# Frog Intel Open Source
 
 ![BUSINESS CARD FRONT](https://github.com/FrogIntel/frogintel/assets/142356943/364f0820-d105-4b98-b55b-b3274738403e)
 
