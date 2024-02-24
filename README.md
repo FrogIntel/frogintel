@@ -209,6 +209,24 @@ STILL GAME?
 https://github.com/FrogIntel/frogintel/assets/142356943/31ca02b6-d483-4533-9254-5ecfb593db94
 
 
+##80
+
+We need to get organized.
+
+Things need to be solved to understand what is about to happen.
+
+Let's start w/ Alice & Wonderland.
+
+Hillary Clinton in Wonderland by Lewis Carroll.
+
+Saudi Arabia - the Bloody Wonderland.
+
+Snow White.
+
+Wizards & Warlocks.
+
+Q
+
 </details>
 
 # DOWNLOAD NOW! 👇
