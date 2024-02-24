@@ -230,20 +230,20 @@ Q
 </details>
 <details>
  <summary>
-  MESSAGE TO MOVEMENTS & SEARCH ENGINES
+  MESSAGE TO MOVEMENTS & MANIPULATION
  </summary>
 
-"*I don't get why people complain about the lack of information available to the public then bring out something the public has to see and yet charges for access to their work or production?*
+*"I don't get why people complain about the lack of information available to the public then bring out something the public has to see and yet charges for access to their work or production?*
 
-You stifle progress doing this"
+*You stifle progress doing this"*
 
 
 
-**To the search engine manipulation against this github repo**
+**To the search engine & other manipulation against this github repo**
 
-You see us. We see you.
+*You see us. We see you.*
 
-"Frog Intel" search results:
+**"Frog Intel" search results:**
 
 • Google: No github appears ⛔
 
@@ -259,6 +259,13 @@ You see us. We see you.
 
 • Startpage: No github appears ⛔
 
+• YouTube: Banned ⛔
+
+• Rumble: Appears ✅
+
+• X / Twitter: Advertising app is blocked ⛔
+
+• Facebook: Unknown
 
 
 *Dear Google and Startpage.*
