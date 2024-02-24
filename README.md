@@ -229,6 +229,12 @@ Q
 
 </details>
 
+# A Message To The Movements
+
+"I don't get why people complain about the lack of information available to the public then bring out something the public has to see and yet charges for access to their work or production?
+
+You stifle progress doing this"
+
 # DOWNLOAD NOW! 👇
 
 ➡ Download @ Github (APK file; version 4.2)
