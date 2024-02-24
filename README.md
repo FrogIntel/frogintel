@@ -15,13 +15,42 @@ https://github.com/FrogIntel/frogintel/releases
 
 - Current App Version: 4.2
 - Virus Total https://t.ly/rwF2Z
-- Current Home Screen Version: 5.3
+- Current Home Screen Version: 5.5.4
+- *Click on the Don't Panic sign!*
 
 Hey Frens, a team of Admins and Anons inside the truther community have compiled a redpill 💊 Android 🤖 application called Frog Intel 🐸, launched May 5th 2023.
 
 In 2023 it was removed from the Play Store and asked by Google to be dumbed down removing any contradicting health information regarding COVID-19. This included removing entire sections, so we left it in.
 
 # REVIEWS 🔥
+
+<details>
+<summary>
+READ THE REVIEW BY ALPHADIGITS
+</summary>
+
+# Frog Intel App Helps Navigate the Labyrinth of Truth in a World of Misinformation - AlphaDigits
+
+In a world where truth seems to be a rare commodity, and information often dances behind veils of censorship and manipulation, the quest for genuine understanding can feel like navigating a labyrinthine maze. But fear not, for there exists a beacon of light amidst the shadows: Frog Intel, an unconventional app poised to pierce through the fog of misinformation and guide truth-seekers into the realm of unfiltered knowledge.
+
+Imagine embarking on a journey through the depths of uncharted intelligence, where the boundaries of conventional discourse are challenged and the forbidden fruits of red-pill tropics beckon. Frog Intel beckons, offering an odyssey of discovery free from the shackles of paywalls and restrictions, inviting users to explore a vast landscape of uncensored information.
+
+At the heart of Frog Intel lies its promise of enlightenment. With its update notifications, users are kept abreast of the latest developments in a world where the truth is constantly evolving. Whether it’s political upheavals, societal controversies, or global events, Frog Intel stands as a steadfast companion, empowering users to delve deep into the issues that matter most to them.
+
+But like any revolutionary force, Frog Intel faces its share of challenges. Its interface, while functional, lacks the sleek aesthetic of its mainstream counterparts, and critics question its motives, skeptics doubt its veracity, and adversaries seek to undermine its credibility. But in the face of adversity, Frog Intel stands resolute, a beacon of truth amidst the tumult of the digital age. In its simplicity lies accessibility, welcoming users of all backgrounds to partake in the pursuit of truth. Reviews and ratings sing praises of its seamless integration with social media platforms like Twitter, Telegram, and Truth Social, heralding Frog Intel as a catalyst for meaningful discourse and exchange of ideas.
+
+In the grand tapestry of human endeavor, Frog Intel emerges not just as an app, but as a symbol of defiance against the forces of censorship and manipulation. It is a testament to the unwavering spirit of human inquiry, a rallying cry for those who refuse to be bound by the chains of ignorance.
+
+So, fellow truth-seeker, heed the call of Frog Intel and embark on a voyage of discovery. The truth awaits, shimmering like a distant beacon on the horizon. Are you ready to embrace it, challenge the status quo, and journey into the depths of unfiltered reality? The choice is yours, and the adventure awaits.
+
+Moreover, nestled within Frog Intel’s interface are not only portals to enlightenment but also avenues of amusement. The developers have ingeniously integrated simple yet engaging games accessible through the app’s search function, adding a delightful twist to the pursuit of truth.
+
+*One of the app’s hidden gems lies within its search functionality:* an entertaining feature triggered by a specific keyword. Picture this: a user types “neo” into the search bar, and suddenly, the screen transforms into a mesmerizing, Matrix-like display reminiscent of the iconic scenes from the eponymous movie. It’s a playful nod to pop culture, inviting users to experience a moment of cinematic nostalgia amidst their quest for knowledge. Indeed, it’s a delightful Easter egg tucked away within the app’s depths, waiting to be discovered and enjoyed.
+
+But the search bar isn’t merely a gateway to entertainment; it’s also a conduit for staying informed. Users can utilize it to access updated versions of the app, ensuring that they remain at the forefront of current events and spicy content. It’s a testament to Frog Intel’s commitment to providing its users with not only unfiltered information but also a seamless and interactive experience.
+
+https://alphadigits.com/2024/02/frog-intel-app-helps-navigate-the-labyrinth-of-truth-in-a-world-of-misinformation/
+</details>
 <details>
 <summary>
 READ THE REVIEW BY APPS4REVIEW
@@ -406,6 +435,23 @@ February 14, 1997
 Christian As. Kirtchev
 
 https://youtu.be/e7QvPgEquUk
+</details>
+
+# Github Featured
+
+<details>
+<summary>
+ VISIT THE SHADOWBANNED YOUTUBE CHANNEL: THE CONSCIOUS VIBE 🔥
+</summary>
+
+# The Conscious Vibe
+
+Followed by the head dev for many years who witnessed the shadowbanning of this remarkable music channel. Embraced with 432hz & 528hz nusic mixes ranging from chillstep to drum and bass.
+
+https://github.com/FrogIntel/frogintel/assets/142356943/43fa7cba-a888-4b0d-9c5d-25ef64be37c6
+
+👉 https://youtube.com/@SynoviaRevival
+ 
 </details>
 
 # Road Map
