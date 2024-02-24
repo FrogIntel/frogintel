@@ -479,7 +479,7 @@ https://youtu.be/e7QvPgEquUk
 
 # The Conscious Vibe
 
-Followed by the head dev for many years who witnessed the shadowbanning of this remarkable music channel. Embraced with 432hz & 528hz nusic mixes ranging from chillstep to drum and bass.
+Followed by the head dev for many years who witnessed the shadowbanning of this remarkable music channel. Embraced with 432hz & 528hz music mixes ranging from chillstep to drum and bass.
 
 https://github.com/FrogIntel/frogintel/assets/142356943/43fa7cba-a888-4b0d-9c5d-25ef64be37c6
 
