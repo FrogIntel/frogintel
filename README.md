@@ -102,17 +102,12 @@ In an era where access to unfiltered information is increasingly under scrutiny,
 
 Company Overview
 
-• Name: Frog Intel
-
-• Year Founded: 2023
-
-• Type of Company: Information App
-
-• HQ Location: Remote
-
-• Startup Founders: Anodev Anderson - Head Developers
-
-• One-Liner: Get Educated Fren..
+- Name: Frog Intel
+- Year Founded: 2023
+- Type of Company: Information App
+- HQ Location: Remote
+- Startup Founders: Anodev Anderson - Head Developers
+- One-Liner: Get Educated Fren..
 
 
 
@@ -244,29 +239,17 @@ Q
 *You see us. We see you.*
 
 **"Frog Intel" search results:**
-
-• Google: No github appears ⛔
-
-• Yahoo: Github appears
-
-• Bing: Github appears
-
-• Duckduckgo: Github appears
-
-• Ecosia: Github appears at top ✅
-
-• Qwant: Github appears
-
-• Startpage: No github appears ⛔
-
-• YouTube: Banned ⛔
-
-• Rumble: Appears ✅
-
-• X / Twitter: Advertising app is blocked ⛔
-
-• Facebook: Unknown
-
+- Google: No github appears ⛔
+- Yahoo: Github appears
+- Bing: Github appears
+- Duckduckgo: Github appears
+- Ecosia: Github appears at top ✅
+- Qwant: Github appears
+- Startpage: No github appears ⛔
+- YouTube: Banned ⛔
+- Rumble: Appears ✅
+- X / Twitter: Advertising app is blocked ⛔
+- Facebook: Unknown, do people still use this? 🐸
 
 *Dear Google and Startpage.*
 
