@@ -239,7 +239,7 @@ You stifle progress doing this"
 
 
 
-**To the overwhelming search engine manipulation against this github repo**
+**To the search engine manipulation against this github repo**
 
 You see us. We see you.
 
