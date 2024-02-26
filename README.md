@@ -21,6 +21,15 @@ https://github.com/FrogIntel/frogintel/releases
 - Current Home Screen Version: 5.5.4
 - *Click on the Don't Panic sign!*
 
+<details>
+<summary>
+⛔ Urgent Announcement Regarding Open Sourcing Of Code ⛔
+</summary>
+Have been informed as of today 26/02/24 that open sourcing of the code is against AppCreator24 policies.
+
+Working to correct the issue or move development platform.
+</details>
+
 Hey Frens, a team of Admins and Anons inside the truther community have compiled a redpill 💊 Android 🤖 application called Frog Intel 🐸, launched May 5th 2023.
 
 ![HELLOWORLD](https://github.com/FrogIntel/frogintel/assets/142356943/e21ce3df-3a9d-4e9d-82b7-93345e06ff74)
