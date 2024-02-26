@@ -7,6 +7,9 @@
 👉 Channel link (only Telegram)
 https://t.me/FrogIntel
 
+👉 XDAForums Link
+https://xdaforums.com/t/app-4-4-frog-intel-4-2-bridging-the-gap-to-censored-information.4658385/
+
 👉 Github link
 https://github.com/FrogIntel
 
