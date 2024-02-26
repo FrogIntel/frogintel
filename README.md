@@ -282,9 +282,6 @@ https://github.com/FrogIntel/frogintel/releases
 ➡ Download @ Telegram (APK file; version 4.2)
 https://t.me/frogintel/348
 
-➡ Download @ Aptoide (APK file; version 3.9, to be updated)
-https://frog-intel.en.aptoide.com/app
-
 **APK SIGNATURE CHANGE:** Had an issue with the signing key as was made using incorrect app and corrupted the file so signing key has changed, **this means a reinstall is required for any version after 4.0.** A main part of the project is doing most the developer work via an Android itself not desktop, meaning can edit on the go. Made by Android for Android.
 
 **Apps From Unknown Sources:**
