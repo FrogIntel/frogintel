@@ -578,7 +578,7 @@ Credits to user's from Countries that assisted development:
 - [COPYRIGHT]
 
 **Law Issues**
-- Any issues with copyright or the license get in touch via the app contact form and we'll look into correcting any issues asap.
+- Any issues with copyright or the license get in touch via the app contact form and we'll look into correcting things asap.
 
 ![Visitor Count](https://profile-counter.glitch.me/{FrogIntel}/count.svg)
 
