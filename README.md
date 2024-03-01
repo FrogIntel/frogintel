@@ -239,10 +239,11 @@ Q
 
 # DOWNLOAD NOW! 👇
 
-➡ Download @ Github (APK file; version 4.2)
+➡ Download @ Github (APK file; version 1.0)
 https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=2
 
-➡ Download @ Telegram (APK file; version 4.2)
+➡ Download @ Telegram (APK file; version 1.0)
+https://t.me/frogintel/366
 
 **Apps From Unknown Sources:**
 Download requires user to enable unknown sources for installing the apk file.
