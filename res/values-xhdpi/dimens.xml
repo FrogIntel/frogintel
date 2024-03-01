@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="app_title_width">60.0dip</dimen>
-    <dimen name="apps_marign_top_suggeted_apps">3.0dip</dimen>
-    <dimen name="icon_height">40.0dip</dimen>
-    <dimen name="icon_width">40.0dip</dimen>
-    <dimen name="suggested_apps_title_size">6.0sp</dimen>
-</resources>
