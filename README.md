@@ -22,6 +22,14 @@ https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=2
 - Current Home Screen Version: 1.0
 - *Click on the Don't Panic sign!*
 
+
+<details>
+ <summary>
+ ⛔ WHY THE APP IS CLOSED SOURCE AS OF 1ST MAR 2024 😞
+ </summary>
+Due to law issues via AppCreator24's terms of service the code was not allowed to be open sourced. Solutions were looked into but the issue of webview and cross origin problems occured not loading the webpages correctly on many different development platforms. So we've stayed with AppCreator24 and closed the code up. This allows the app to remain free, but has adverts installed but not activated. Only AppCreator24 adverts are activated and these will show on a very rare occasion. To remove the adverts after download please follow the tutorial further below.
+</details>
+
 <details>
  <summary>
  📝 TUTORIAL: HOW TO DISABLE BUILT IN ADVERTS
@@ -45,12 +53,6 @@ https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=2
  
 </details>
 
-<details>
- <summary>
- ⛔ WHY THE APP IS CLOSED SOURCE AS OF 1ST MAR 2024 😞
- </summary>
-Due to law issues via AppCreator24's terms of service the code was not allowed to be open sourced. Solutions were looked into but the issue of webview and cross origin problems occured not loading the webpages correctly on many different development platforms. So we've stayed with AppCreator24 and closed the code up. This allows the app to remain free, but has adverts installed but not activated. Only AppCreator24 adverts are activated and these will show on a very rare occasion. To remove the adverts after download please follow the tutorial further below.
-</details>
 
 Hey Frens, a team of Admins and Anons inside the truther community have compiled a redpill 💊 Android 🤖 application called REEBIT 🐸, launched 1st Mar 2024, previously called Frog Intel.
 
