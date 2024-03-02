@@ -8,8 +8,8 @@
 👉 Channel link (only Telegram)
 https://t.me/FrogIntel
 
-👉 XDAForums Link
-*TBC*
+👉 XDAForums Link 
+https://xdaforums.com/t/app-4-4-reebit-research-reach-react-fren.4658385/
 
 👉 Github link
 https://github.com/FrogIntel/reebit
