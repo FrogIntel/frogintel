@@ -540,7 +540,6 @@ https://github.com/FrogIntel/frogintel/assets/142356943/43fa7cba-a888-4b0d-9c5d-
 # Road Map
 
 - Keep App Free
-- Port to iOS / Cross Platform
 - Browser bookmark extension
 - Update Aptoide page
 - Setup a Sponsorship Section / Tab for redpill folk
