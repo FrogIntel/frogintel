@@ -22,7 +22,6 @@ https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=2
 - Current Home Screen Version: 1.0
 - *Click on the Don't Panic sign!*
 
-
 <details>
  <summary>
  ⛔ WHY THE APP IS CLOSED SOURCE AS OF 1ST MAR 2024 😞
@@ -32,7 +31,7 @@ Due to law issues via AppCreator24's terms of service the code was not allowed t
 
 <details>
  <summary>
- 📝 TUTORIAL: HOW TO DISABLE BUILT IN ADVERTS
+ TUTORIAL: HOW TO DISABLE BUILT IN ADVERTS 📝
  </summary>
  To remove the adverts inside the apk file, do the following:
 
@@ -51,67 +50,6 @@ Due to law issues via AppCreator24's terms of service the code was not allowed t
 - Then click install or reinstall if you have REEBIT already installed with ads
 - Launch with adverts disabled
  
-</details>
-
-
-Hey Frens, a team of Admins and Anons inside the truther community have compiled a redpill 💊 Android 🤖 application called REEBIT 🐸, launched 1st Mar 2024, previously called Frog Intel.
-
-![HELLOWORLD](https://github.com/FrogIntel/REEBIT/assets/142356943/bbf4e73c-907a-473c-bbc3-0ac7ccfde98e)
-
-
-
-In 2023 it was removed from the Play Store and asked by Google to be dumbed down removing any contradicting health information regarding COVID-19. This included removing entire sections, so we left # REEBIT 🐸 by Frog Intel
-
-![CARD FRONT](https://github.com/FrogIntel/REEBIT/assets/142356943/1e52dfec-1938-4530-9b2e-e9c525664cf8)
-
-
-🆕 REEBIT Android application has been BANNED from Google Play Store during 2023, but is STILL AVAILABLE and going 💪
-
-👉 Channel link (only Telegram)
-https://t.me/FrogIntel
-
-👉 XDAForums Link
-*TBC*
-
-👉 Github link
-https://github.com/FrogIntel/reebit
-
-👉 Download Now!
-https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=2
-
-- Current App Version: 1.0
-- Virus Total (1 False Positive) https://t.ly/PNcVG
-- Current Home Screen Version: 1.0
-- *Click on the Don't Panic sign!*
-
-<details>
- <summary>
- 📝 TUTORIAL: HOW TO DISABLE BUILT IN ADVERTS
- </summary>
- To remove the adverts inside the apk file, do the following:
-
-- Download luckypatcher installer from here: https://chelpus.com/download/LuckyPatchers.com_Official_Installer_11.2.3.apk
-- Install luckypatcher installer and then install luckypatcher
-- Once installed, open luckypatcher and it will ask you to uninstall the installer, click ok
-- Deny any permission requests
-- Then open the side menu, go to settings, and disable analytical service
-- Then go back to the main screen and in bottom right corner click Rebuild & Install
-- Locate the downloaded apk file
-- Click and hold the downloaded apk file and select the option: Create modified APK file
-- Then click: APK without Google Ads
-- When this opens, only select: Remove links from APK and Corrupt the ad receiver
-- Click on rebuild the app
-- Once rebuilt, click on Go To File
-- Then click install or reinstall if you have REEBIT already installed with ads
-- Launch with adverts disabled
- 
-</details>
-
-<details>
- <summary>
- ⛔ WHY THE APP IS CLOSED SOURCE AS OF 1ST MAR 2024 😞
- </summary>
-Due to law issues via AppCreator24's terms of service the code was not allowed to be open sourced. Solutions were looked into but the issue of webview and cross origin problems occured not loading the webpages correctly on many different development platforms. So we've stayed with AppCreator24 and closed the code up. This allows the app to remain free, but has adverts installed but not activated. Only AppCreator24 adverts are activated and these will show on a very rare occasion. To remove the adverts after download please follow the tutorial further below.
 </details>
 
 Hey Frens, a team of Admins and Anons inside the truther community have compiled a redpill 💊 Android 🤖 application called REEBIT 🐸, launched 1st Mar 2024, previously called Frog Intel.
@@ -121,14 +59,6 @@ Hey Frens, a team of Admins and Anons inside the truther community have compiled
 
 
 In 2023 it was removed from the Play Store and asked by Google to be dumbed down removing any contradicting health information regarding COVID-19. This included removing entire sections, so we left it in.
-
-# PREVIOUS REVIEWS AS FROG INTEL
-
-<details>
-<summary>
-READ THE REVIEW BY ALPHADIGITS
-</summary>
-it in.
 
 # PREVIOUS REVIEWS AS FROG INTEL
 
@@ -349,7 +279,7 @@ If you download the file in Telegram, do the same but find telegram and when pro
 
 <details>
  <summary>
- 📝 TUTORIAL: HOW TO DISABLE BUILT IN ADVERTS
+ TUTORIAL: HOW TO DISABLE BUILT IN ADVERTS 📝
  </summary>
  To remove the adverts inside the apk file, do the following:
 
@@ -658,4 +588,3 @@ Credits to user's from Countries that assisted development:
 - Any issues with copyright or the license get in touch via the app contact form and we'll look into correcting things asap.
 
 ![Visitor Count](https://profile-counter.glitch.me/{FrogIntel}/count.svg)
-
