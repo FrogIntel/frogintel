@@ -54,7 +54,7 @@ Due to law issues via AppCreator24's terms of service the code was not allowed t
  
 </details>
 
-Hey Frens, a team of Admins and Anons inside the truther community have compiled a redpill 💊 Android 🤖 application called REEBIT 🐸, launched 1st Mar 2024, previously called Frog Intel.
+Hey Frens, a team of Admins and Anons inside the truther community have compiled a redpill 💊 Android 🤖 application called REEBITT 🐸, launched 1st Mar 2024, previously called Frog Intel.
 
 ![HELLOWORLD](https://github.com/FrogIntel/REEBIT/assets/142356943/bbf4e73c-907a-473c-bbc3-0ac7ccfde98e)
 
