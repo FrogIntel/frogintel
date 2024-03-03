@@ -2,9 +2,6 @@
 
 ![CARD FRONT](https://github.com/FrogIntel/REEBITT/assets/142356943/035b4b4c-db2a-43da-b0a2-a3d6c65dcfe3)
 
-
-**⚠ UPDATE IN PROGRESS, SWITCH FROM REEBIT TO REEBITT ⚠**
-
 🆕 REEBITT Android application has been BANNED from Google Play Store during 2023, but is STILL AVAILABLE and going 💪
 
 👉 Channel link (only Telegram)
@@ -264,7 +261,7 @@ Q
 
 # DOWNLOAD NOW! 👇
 
-➡ Download @ Github (APK file; version 1.2)
+➡ Direct Download Link From Dev Platform (APK file; version 1.2)
 https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=5
 
 ➡ Download @ Telegram (APK file; version 1.2)
