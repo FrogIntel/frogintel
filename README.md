@@ -11,7 +11,7 @@
 https://t.me/FrogIntel
 
 👉 XDAForums Link 
-https://xdaforums.com/t/app-4-4-reebit-research-reach-react-fren.4658385/
+https://xdaforums.com/t/app-4-4-reebitt-research-reach-react-fren.4658385/
 
 👉 Github link
 https://github.com/FrogIntel/reebitt
