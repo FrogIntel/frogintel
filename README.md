@@ -307,8 +307,7 @@ REEBIT funding is out of pocket. It's not people funded, nor will it ask for don
 Download the front of the card by downloading the banner at the top of the github page.
 
 👇 Below is the rear of the business card
-![CARD BACK](https://github.com/FrogIntel/frogintel/assets/142356943/49c2b663-84f3-40e2-8131-2e5bb5d5dcf4)
-
+![CARD BACK](https://github.com/FrogIntel/REEBIT/assets/142356943/934b73bb-e1b9-4953-bd9e-dd2ea8e4e702)
 
 
 # Manifesto
