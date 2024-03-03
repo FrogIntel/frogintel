@@ -1,6 +1,6 @@
 # REEBITT 🐸 by Frog Intel
 
-![CARD FRONT](https://github.com/FrogIntel/frogintel/assets/142356943/0c88988a-242c-4ebc-a5e4-596efa9e42b6)
+![CARD FRONT](https://github.com/FrogIntel/REEBITT/assets/142356943/035b4b4c-db2a-43da-b0a2-a3d6c65dcfe3)
 
 
 **⚠ UPDATE IN PROGRESS, SWITCH FROM REEBIT TO REEBITT ⚠**
@@ -14,14 +14,14 @@ https://t.me/FrogIntel
 https://xdaforums.com/t/app-4-4-reebit-research-reach-react-fren.4658385/
 
 👉 Github link
-https://github.com/FrogIntel/reebit
+https://github.com/FrogIntel/reebitt
 
 👉 Download Now!
-https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=2
+https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=5
 
-- Current App Version: 1.0
-- Virus Total (1 False Positive) https://t.ly/PNcVG
-- Current Home Screen Version: 1.0
+- Current App Version: 1.2
+- Virus Total https://t.ly/3HSQW
+- Current Home Screen Version: 1.1
 - *Click on the Don't Panic sign!*
 
 <details>
@@ -264,11 +264,11 @@ Q
 
 # DOWNLOAD NOW! 👇
 
-➡ Download @ Github (APK file; version 1.0)
-https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=2
+➡ Download @ Github (APK file; version 1.2)
+https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=5
 
-➡ Download @ Telegram (APK file; version 1.0)
-https://t.me/frogintel/366
+➡ Download @ Telegram (APK file; version 1.2)
+https://t.me/frogintel/384
 
 **Apps From Unknown Sources:**
 Download requires user to enable unknown sources for installing the apk file.
@@ -308,8 +308,8 @@ REEBITT funding is out of pocket. It's not people funded, nor will it ask for do
 
 Download the front of the card by downloading the banner at the top of the github page.
 
-👇 Below is the rear of the business card
-![CARD BACK](https://github.com/FrogIntel/REEBIT/assets/142356943/934b73bb-e1b9-4953-bd9e-dd2ea8e4e702)
+👇 Below is the rear of the card
+![CARD BACK](https://github.com/FrogIntel/REEBITT/assets/142356943/330577f8-91ce-499a-b984-8dc6e56bd9e3)
 
 
 # Manifesto
