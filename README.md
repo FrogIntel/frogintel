@@ -1,6 +1,6 @@
 # REEBIT 🐸 by Frog Intel
 
-![CARD FRONT](https://github.com/FrogIntel/REEBIT/assets/142356943/1e52dfec-1938-4530-9b2e-e9c525664cf8)
+![CARD FRONT](https://github.com/FrogIntel/frogintel/assets/142356943/0c88988a-242c-4ebc-a5e4-596efa9e42b6)
 
 
 🆕 REEBIT Android application has been BANNED from Google Play Store during 2023, but is STILL AVAILABLE and going 💪
@@ -26,7 +26,7 @@ https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=2
  <summary>
  ⛔ WHY THE APP IS CLOSED SOURCE AS OF 1ST MAR 2024 😞
  </summary>
-Due to law issues via AppCreator24's terms of service the code was not allowed to be open sourced. Solutions were looked into but the issue of webview and cross origin problems occured not loading the webpages correctly on many different development platforms. So we've stayed with AppCreator24 and closed the code up. This allows the app to remain free, but has adverts installed but not activated. Only AppCreator24 adverts are activated and these will show on a very rare occasion. To remove the adverts after download please follow the tutorial further below.
+Due to law issues via AppCreator24's terms of service the code was not allowed to be open sourced. Solutions were looked into but the issue of webview and cross origin problems occured not loading the webpages correctly on many different development platforms. So we've stayed with AppCreator24 and closed the code up. This allows the app to remain free, but has adverts installed but not activated. Only AppCreator24 adverts are activated and these will show on a very rare occasion. To remove the adverts after download please follow the tutorial below.
 </details>
 
 <details>
@@ -302,12 +302,12 @@ If you download the file in Telegram, do the same but find telegram and when pro
 
 # Help Spread Awareness Of REEBIT
 
-REEBIT funding is out of pocket. It's not people funded, nor will it ask for donations. But we will ask, if you wish to share our business cards around. Feel free to use the v2 business card, download and print them out. V1 can be found in the telegram channel.
+REEBIT funding is out of pocket. It's not people funded, nor will it ask for donations. But we will ask, if you wish to share our business cards around. Feel free to use the v3 business card, download and print them out. V2 & 1 can be found in the telegram channel.
 
 Download the front of the card by downloading the banner at the top of the github page.
 
 👇 Below is the rear of the business card
-![CARD BACK](https://github.com/FrogIntel/REEBIT/assets/142356943/bced7f5b-c198-4d5f-a116-f4d2182f5d17)
+![CARD BACK](https://github.com/FrogIntel/frogintel/assets/142356943/49c2b663-84f3-40e2-8131-2e5bb5d5dcf4)
 
 
 
