@@ -3,6 +3,8 @@
 ![CARD FRONT](https://github.com/FrogIntel/frogintel/assets/142356943/0c88988a-242c-4ebc-a5e4-596efa9e42b6)
 
 
+**⚠ UPDATE IN PROGRESS, SWITCH FROM REEBIT TO REEBITT ⚠**
+
 🆕 REEBITT Android application has been BANNED from Google Play Store during 2023, but is STILL AVAILABLE and going 💪
 
 👉 Channel link (only Telegram)
@@ -300,7 +302,7 @@ If you download the file in Telegram, do the same but find telegram and when pro
  
 </details>
 
-# Help Spread Awareness Of REEBIT
+# Help Spread Awareness Of REEBITT
 
 REEBITT funding is out of pocket. It's not people funded, nor will it ask for donations. But we will ask, if you wish to share our business cards around. Feel free to use the v2 card, download and print them out. V1 can be found in the telegram channel.
 
