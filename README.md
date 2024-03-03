@@ -1,9 +1,9 @@
-# REEBIT 🐸 by Frog Intel
+# REEBITT 🐸 by Frog Intel
 
 ![CARD FRONT](https://github.com/FrogIntel/frogintel/assets/142356943/0c88988a-242c-4ebc-a5e4-596efa9e42b6)
 
 
-🆕 REEBIT Android application has been BANNED from Google Play Store during 2023, but is STILL AVAILABLE and going 💪
+🆕 REEBITT Android application has been BANNED from Google Play Store during 2023, but is STILL AVAILABLE and going 💪
 
 👉 Channel link (only Telegram)
 https://t.me/FrogIntel
@@ -47,7 +47,7 @@ Due to law issues via AppCreator24's terms of service the code was not allowed t
 - When this opens, only select: Remove links from APK and Corrupt the ad receiver
 - Click on rebuild the app
 - Once rebuilt, click on Go To File
-- Then click install or reinstall if you have REEBIT already installed with ads
+- Then click install or reinstall if you have REEBITT already installed with ads
 - Launch with adverts disabled
  
 </details>
@@ -295,14 +295,14 @@ If you download the file in Telegram, do the same but find telegram and when pro
 - When this opens, only select: Remove links from APK and Corrupt the ad receiver
 - Click on rebuild the app
 - Once rebuilt, click on Go To File
-- Then click install or reinstall if you have REEBIT already installed with ads
+- Then click install or reinstall if you have REEBITT already installed with ads
 - Launch with adverts disabled
  
 </details>
 
 # Help Spread Awareness Of REEBIT
 
-REEBIT funding is out of pocket. It's not people funded, nor will it ask for donations. But we will ask, if you wish to share our business cards around. Feel free to use the v3 business card, download and print them out. V2 & 1 can be found in the telegram channel.
+REEBITT funding is out of pocket. It's not people funded, nor will it ask for donations. But we will ask, if you wish to share our business cards around. Feel free to use the v2 card, download and print them out. V1 can be found in the telegram channel.
 
 Download the front of the card by downloading the banner at the top of the github page.
 
