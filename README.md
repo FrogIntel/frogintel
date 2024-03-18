@@ -18,7 +18,7 @@ https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=5
 
 - Current App Version: 1.2
 - Virus Total https://t.ly/3HSQW
-- Current Home Screen Version: 1.2
+- Current Home Screen Version: 1.3
 - *Click on the Don't Panic sign!*
 
 <details>
