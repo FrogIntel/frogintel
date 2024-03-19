@@ -217,7 +217,8 @@ https://apps400.com/android-apps/unveiling-the-power-of-frog-intel.html
 </details>
 
 
-![PREVIEW](https://github.com/FrogIntel/frogintel/assets/142356943/dcf0f13e-f527-4502-9c14-e9a0010ae666)
+![PREVIEW](https://github.com/FrogIntel/frogintel/assets/142356943/76391318-27b1-4316-bd87-82ddee62e719)
+
 
 
 It is designed to filter out a majority of the fakes, shills and trolls inside the movement spreading disinformation & misinformation. Providing you with OSINT tools alongside the Intel.
