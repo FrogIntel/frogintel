@@ -23,7 +23,8 @@ GREEN_CASTLE. ( Light Edition )
 https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=2
 
 - Current App Version: 1.2
-- Virus Total https://t.ly/3HSQW
+- Virus Total ( RED_CASTLE. ) https://t.ly/3HSQW
+- Virus Total ( GREEN_CASTLE. ) https://t.ly/cf5k-
 - Current Home Screen Version: 1.4
 - *Click on the Don't Panic sign!*
 
@@ -267,11 +268,16 @@ Q
 
 # DOWNLOAD NOW! 👇
 
-➡ Direct Download Link From Dev Platform (APK file; version 1.2)
+➡ Direct download via Developer Platform (APK file; version 1.2)
+
+RED_CASTLE. ( Dark Edition )
 https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=5
 
-➡ Download @ Telegram (APK file; version 1.2)
-https://t.me/frogintel/384
+GREEN_CASTLE. ( Light Edition )
+https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=2
+
+➡ Download @ Telegram
+https://t.me/frogintel
 
 **Apps From Unknown Sources:**
 Download requires user to enable unknown sources for installing the apk file.
