@@ -25,7 +25,7 @@ https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=2
 - Current App Version: 1.2
 - Virus Total ( RED_CASTLE. ) https://t.ly/3HSQW
 - Virus Total ( GREEN_CASTLE. ) https://t.ly/cf5k-
-- Current Home Screen Version: 1.4
+- Current Home Screen Version: 1.5
 - *Click on the Don't Panic sign!*
 
 <details>
