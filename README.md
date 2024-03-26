@@ -553,7 +553,7 @@ https://github.com/FrogIntel/frogintel/assets/142356943/43fa7cba-a888-4b0d-9c5d-
 - Browser bookmark extension
 - Update Aptoide page
 - Setup a Sponsorship Section / Tab for redpill folk
-(App is free, funded from pocket and has adverts nulled, to generate some form of return to cover developer costs only, a sponsorship area will be setup away from the mainscreen where redpill folk can chip in with some $ and get seen within the app. Not everything will be allowed in the app. If this interests you, contact us via the form within the app)
+(App is free and funded from pocket, to generate some form of return to cover developer costs only, a sponsorship area will be setup away from the mainscreen where redpill folk can chip in with some $ and get seen within the app. Not everything will be allowed in the app. If this interests you, contact us via the form within the app)
 
 # App Disclaimer 📄
 - Not All Content In The App Is Correct.
