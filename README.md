@@ -23,8 +23,8 @@ GREEN_CASTLE. ( Light Edition )
 https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=5
 
 - Current App Version: 1.2d
-- Virus Total ( RED_CASTLE. ) https://t.ly/3HSQW
-- Virus Total ( GREEN_CASTLE. ) https://t.ly/cf5k-
+- Virus Total ( RED_CASTLE. ) https://t.ly/1xO98
+- Virus Total ( GREEN_CASTLE. ) https://t.ly/v3ZLu
 - *Click on the Don't Panic sign!*
 
 <details>
