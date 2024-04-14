@@ -31,7 +31,7 @@ https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=2
  <summary>
  ⛔ WHY REEBITT RED_CASTLE. SAYS NO LONGER AVAILABLE? IT NEEDS AN UPDATE ( 14th April 2024)
  </summary>
-With issues on the development platform there is no easy way to import / export the app. Tried a work around and it wiped the app so an uodated version that will install on top is now available.
+With issues on the development platform there is no easy way to import / export the app. Tried a work around and it wiped the app so an updated version that will install as fresh version.
 </details>
 
 <details>
