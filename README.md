@@ -274,13 +274,13 @@ Q
 
 # DOWNLOAD NOW! 👇
 
-➡ Direct download via Developer Platform (APK file; version 1.2)
+➡ Direct download via Developer Platform (APK file; version 1.2d)
 
 RED_CASTLE. ( Dark Edition )
-https://apk.e-droid.net/apk/app3028718-gjwml6.apk?v=5
+https://apk.e-droid.net/apk/app3083574-gjwml6.apk?v=7
 
 GREEN_CASTLE. ( Light Edition )
-https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=2
+https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=5
 
 ➡ Download @ Telegram
 https://t.me/frogintel
