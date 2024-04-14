@@ -17,12 +17,12 @@ https://github.com/FrogIntel/reebitt
 # Download Now!
 
 RED_CASTLE. ( Dark Edition )
-https://apk.e-droid.net/apk/app3083574-gjwml6.apk?v=6
+https://apk.e-droid.net/apk/app3083574-gjwml6.apk?v=7
 
 GREEN_CASTLE. ( Light Edition )
-https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=2
+https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=5
 
-- Current App Version: 1.2c (Red) 1.2 (Green)
+- Current App Version: 1.2d
 - Virus Total ( RED_CASTLE. ) https://t.ly/3HSQW
 - Virus Total ( GREEN_CASTLE. ) https://t.ly/cf5k-
 - *Click on the Don't Panic sign!*
