@@ -16,15 +16,13 @@ https://github.com/FrogIntel/reebitt
 
 # Download Now!
 
-RED_CASTLE. ( Dark Edition )
+RED_CASTLE. ( Dark Edition ) v1.2d
 https://apk.e-droid.net/apk/app3083574-gjwml6.apk?v=7
 
-GREEN_CASTLE. ( Light Edition )
-https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=5
-
-- Current App Version: 1.2d
+GREEN_CASTLE. ( Light Edition ) v1.2e
+https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=6
 - Virus Total ( RED_CASTLE. ) https://t.ly/1xO98
-- Virus Total ( GREEN_CASTLE. ) https://t.ly/v3ZLu
+- Virus Total ( GREEN_CASTLE. ) https://t.ly/j7oof
 - *Click on the Don't Panic sign!*
 
 <details>
@@ -43,7 +41,7 @@ Due to law issues via AppCreator24's terms of service the code was not allowed t
 
 <details>
  <summary>
- TUTORIAL: HOW TO DISABLE BUILT IN ADVERTS 📝
+ TUTORIAL: HOW TO DISABLE BUILT IN ADVERTS VIA LUCKYPATCHER 📝
  </summary>
  To remove the adverts inside the apk file, do the following:
 
@@ -274,13 +272,13 @@ Q
 
 # DOWNLOAD NOW! 👇
 
-➡ Direct download via Developer Platform (APK file; version 1.2d)
+➡ Direct download via Developer Platform (APK file; version 1.2)
 
-RED_CASTLE. ( Dark Edition )
+RED_CASTLE. ( Dark Edition ) v1.2d
 https://apk.e-droid.net/apk/app3083574-gjwml6.apk?v=7
 
-GREEN_CASTLE. ( Light Edition )
-https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=5
+GREEN_CASTLE. ( Light Edition ) v1.2e
+https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=6
 
 ➡ Download @ Telegram
 https://t.me/frogintel
@@ -558,8 +556,7 @@ https://github.com/FrogIntel/frogintel/assets/142356943/43fa7cba-a888-4b0d-9c5d-
 - Keep App Free
 - Browser bookmark extension
 - Update Aptoide page
-- Setup a Sponsorship Section / Tab for redpill folk
-(App is free and funded from pocket, to generate some form of return to cover developer costs only, a sponsorship area will be setup away from the mainscreen where redpill folk can chip in with some $ and get seen within the app. Not everything will be allowed in the app. If this interests you, contact us via the form within the app)
+- TBC
 
 # App Disclaimer 📄
 - Not All Content In The App Is Correct.
