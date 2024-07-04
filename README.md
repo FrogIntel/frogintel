@@ -1,6 +1,7 @@
 # REEBITT 🐸 by Frog Intel
 
-![CARD FRONT](https://github.com/FrogIntel/frogintel/assets/142356943/de31ff3c-4ccd-400e-8999-05e3d9cc5f2f)
+![CARD FRONT](https://github.com/FrogIntel/REEBITT/assets/142356943/16b1c6c0-15dc-42fe-9dea-5deae57a407e)
+
 
 🆕 REEBITT Android application has been BANNED from Google Play Store during 2023, but is STILL AVAILABLE and going 💪
 
@@ -228,9 +229,11 @@ https://apps400.com/android-apps/unveiling-the-power-of-frog-intel.html
 </details>
 
 
-![PREVIEW](https://github.com/FrogIntel/frogintel/assets/142356943/76391318-27b1-4316-bd87-82ddee62e719)
+![RED_CASTLE.](https://github.com/FrogIntel/frogintel/assets/142356943/76391318-27b1-4316-bd87-82ddee62e719)
+👆 RED_CASTLE. PREVIEW
 
-
+![GREEN_CASTLE.](https://github.com/FrogIntel/REEBITT/assets/142356943/58dde818-a1cb-4a50-9767-b58a1aa0ee44)
+👆 GREEN_CASTLE. PREVIEW
 
 It is designed to filter out a majority of the fakes, shills and trolls inside the movement spreading disinformation & misinformation. Providing you with OSINT tools alongside the Intel.
 
@@ -248,6 +251,7 @@ STILL GAME?
 
 
 https://github.com/FrogIntel/frogintel/assets/142356943/31ca02b6-d483-4533-9254-5ecfb593db94
+
 
 
 ##80
