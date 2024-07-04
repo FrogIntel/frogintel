@@ -1,6 +1,6 @@
 # REEBITT 🐸 by Frog Intel
 
-![CARD FRONT](https://github.com/FrogIntel/REEBITT/assets/142356943/035b4b4c-db2a-43da-b0a2-a3d6c65dcfe3)
+![CARD FRONT](https://github.com/FrogIntel/frogintel/assets/142356943/de31ff3c-4ccd-400e-8999-05e3d9cc5f2f)
 
 🆕 REEBITT Android application has been BANNED from Google Play Store during 2023, but is STILL AVAILABLE and going 💪
 
