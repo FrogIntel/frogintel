@@ -12,19 +12,29 @@ https://t.me/FrogIntel
 https://xdaforums.com/t/app-4-4-reebitt-research-reach-react-fren.4658385/
 
 👉 Github link
-https://github.com/FrogIntel/reebitt
+https://github.com/FrogIntel
 
 
-# Download Now!
+# Download Now! (updated: Jan 2025)
 
-RED_CASTLE. ( Dark Edition ) v1.2d
-https://apk.e-droid.net/apk/app3083574-gjwml6.apk?v=7
+Download RED_CASTLE. v1.2f via Development Platform (sources updated soon)
+https://apk.e-droid.net/apk/app3083574-gjwml6.apk?v=9
+Download RED_CASTLE. v1.2f Lucky Patcher Mod
+https://t.me/frogintel/563
 
-GREEN_CASTLE. ( Light Edition ) v1.2e
-https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=6
-- Virus Total ( RED_CASTLE. ) https://t.ly/1xO98
-- Virus Total ( GREEN_CASTLE. ) https://t.ly/j7oof
-- *Click on the Don't Panic sign!*
+Download GREEN_CASTLE. v1.2f via Development Platform
+https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=8
+Download GREEN_CASTLE. v1.2f Lucky Patcher Mod
+https://t.me/frogintel/561
+
+How to mod app via Lucky Patcher
+🔗 https://t.me/frogintel/562
+
+Virus Total for un-modded versions is clean, for modded versions see below:
+- Virus Total ( RED_CASTLE. ) https://shorturl.at/YH8b9
+- Virus Total ( GREEN_CASTLE. ) https://shorturl.at/2Ph86
+
+*Click on the Don't Panic sign on app home screen!*
 
 <details>
  <summary>
@@ -44,9 +54,14 @@ Due to law issues via AppCreator24's terms of service the code was not allowed t
  <summary>
  TUTORIAL: HOW TO DISABLE BUILT IN ADVERTS VIA LUCKYPATCHER 📝
  </summary>
- To remove the adverts inside the apk file, do the following:
 
-- Download luckypatcher installer from here: https://chelpus.com/download/LuckyPatchers.com_Official_Installer_11.2.3.apk
+To remove the adverts inside the apk file, do the following:
+
+
+Video Tutorial:
+https://t.me/frogintel/562
+
+- Download luckypatcher installer from here: https://luckypatchers.com/download
 - Install luckypatcher installer and then install luckypatcher
 - Once installed, open luckypatcher and it will ask you to uninstall the installer, click ok
 - Deny any permission requests
@@ -70,6 +85,8 @@ Hey Frens, a team of Admins and Anons inside the truther community have compiled
 
 
 In 2023 it was removed from the Play Store and asked by Google to be dumbed down removing any contradicting health information regarding COVID-19. This included removing entire sections, so we left it in.
+
+As of 2025, the app is now maintained by Anodev the original developer whilst the team that assisted in the  beginning of the app spread into different areas or ops
 
 # PREVIOUS REVIEWS AS FROG INTEL
 
@@ -274,19 +291,6 @@ Q
 
 </details>
 
-# DOWNLOAD NOW! 👇
-
-➡ Direct download via Developer Platform (APK file; version 1.2)
-
-RED_CASTLE. ( Dark Edition ) v1.2d
-https://apk.e-droid.net/apk/app3083574-gjwml6.apk?v=7
-
-GREEN_CASTLE. ( Light Edition ) v1.2e
-https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=6
-
-➡ Download @ Telegram
-https://t.me/frogintel
-
 **Apps From Unknown Sources:**
 Download requires user to enable unknown sources for installing the apk file.
 If you download the file in Chrome, when opening the file and the warning pops up, click settings that is displayed on the pop up > chrome > enable unknown sources.
@@ -294,30 +298,7 @@ If you download the file in Telegram, do the same but find telegram and when pro
 
 **Feedback is essential to the development of the application,** if it is of use to you, please feel free to rate it or provide feedback in the channel or app.
 
-**App has adverts built in due to the development service. Please follow the tutorial below to disable this from the end users side**
-
-<details>
- <summary>
- TUTORIAL: HOW TO DISABLE BUILT IN ADVERTS 📝
- </summary>
- To remove the adverts inside the apk file, do the following:
-
-- Download luckypatcher installer from here: https://chelpus.com/download/LuckyPatchers.com_Official_Installer_11.2.3.apk
-- Install luckypatcher installer and then install luckypatcher
-- Once installed, open luckypatcher and it will ask you to uninstall the installer, click ok
-- Deny any permission requests
-- Then open the side menu, go to settings, and disable analytical service
-- Then go back to the main screen and in bottom right corner click Rebuild & Install
-- Locate the downloaded apk file
-- Click and hold the downloaded apk file and select the option: Create modified APK file
-- Then click: APK without Google Ads
-- When this opens, only select: Remove links from APK and Corrupt the ad receiver
-- Click on rebuild the app
-- Once rebuilt, click on Go To File
-- Then click install or reinstall if you have REEBITT already installed with ads
-- Launch with adverts disabled
- 
-</details>
+**App has adverts built in due to the development service. Please follow the tutorial at top of page to disable this from the end users side**
 
 # Help Spread Awareness Of REEBITT
 
@@ -559,8 +540,8 @@ https://github.com/FrogIntel/frogintel/assets/142356943/43fa7cba-a888-4b0d-9c5d-
 
 - Keep App Free
 - Browser bookmark extension
-- Update Aptoide page
-- TBC
+- Put on stores
+- TBC, see telegram channel for more
 
 # App Disclaimer 📄
 - Not All Content In The App Is Correct.
