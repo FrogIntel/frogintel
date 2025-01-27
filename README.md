@@ -247,10 +247,10 @@ https://apps400.com/android-apps/unveiling-the-power-of-frog-intel.html
 
 
 ![RED_CASTLE.](https://github.com/FrogIntel/frogintel/assets/142356943/76391318-27b1-4316-bd87-82ddee62e719)
-👆 RED_CASTLE. PREVIEW
+👆 RED_CASTLE. PREVIEW 2024
 
 ![GREEN_CASTLE.](https://github.com/FrogIntel/REEBITT/assets/142356943/58dde818-a1cb-4a50-9767-b58a1aa0ee44)
-👆 GREEN_CASTLE. PREVIEW
+👆 GREEN_CASTLE. PREVIEW 2024
 
 It is designed to filter out a majority of the fakes, shills and trolls inside the movement spreading disinformation & misinformation. Providing you with OSINT tools alongside the Intel.
 
