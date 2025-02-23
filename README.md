@@ -16,24 +16,32 @@ https://github.com/FrogIntel
 
 
 # Download Now! (updated: Feb 2025)
-Download GREEN_CASTLE. v1.2g via Development Platform (un-modded)
-➡ https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=11
-➡ Download GREEN_CASTLE. v1.2g Lucky Patcher Mod
-https://www.mirrored.to/files/RIAZGGZQ/
 
-Download RED_CASTLE. v1.2f via Development Platform (un-modded, sources updated soon)
+📗 Download GREEN_CASTLE. v1.2g via Development Platform (un-modded)
+
+➡ https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=11
+
+📗 *Download GREEN_CASTLE. v1.2g Lucky Patcher Mod*
+
+➡ https://www.mirrored.to/files/RIAZGGZQ/
+
+
+📕 Download RED_CASTLE. v1.2f via Development Platform (un-modded, sources updated soon)
+
 ➡ https://apk.e-droid.net/apk/app3083574-gjwml6.apk?v=9
-Download RED_CASTLE. v1.2f Lucky Patcher Mod
+
+📕 *Download RED_CASTLE. v1.2f Lucky Patcher Mod*
+
 ➡ https://www.mirrored.to/files/H6UK0AX5/
 
-How to mod app via Lucky Patcher
-🔗 https://t.me/frogintel/562
 
 Virus Total for un-modded versions is clean, for modded versions see below:
 - Virus Total ( GREEN_CASTLE. ) https://shorturl.at/MIO1S
 - Virus Total ( RED_CASTLE. ) https://shorturl.at/Tj6zj
-
 *Click on the Don't Panic sign on app home screen!*
+
+How to mod app via Lucky Patcher
+🔗 https://t.me/frogintel/562
 
 <details>
  <summary>
