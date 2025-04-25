@@ -15,29 +15,28 @@ https://xdaforums.com/t/app-4-4-reebitt-research-reach-react-fren.4658385/
 https://github.com/FrogIntel
 
 
-# Download Now! (updated: Feb 2025)
+# Download Now! (updated: Apr 2025, latest download links below)
 
-📗 Download GREEN_CASTLE. v1.2g via Development Platform (un-modded)
+Download RED_CASTLE. v1.2g via Development Platform (un-modded, sources updated soon)
 
-➡ https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=11
+📕 https://apk.e-droid.net/apk/app3083574-gjwml6.apk?v=10
 
-📗 *Download GREEN_CASTLE. v1.2g Lucky Patcher Mod*
+Download RED_CASTLE. v1.2g Lucky Patcher Mod
 
-➡ https://www.mirrored.to/files/RIAZGGZQ/
+📕 https://mir.cr/XGTUVYPM
 
+Download GREEN_CASTLE. v1.2g via Development Platform (un-modded)
 
-📕 Download RED_CASTLE. v1.2f via Development Platform (un-modded, sources updated soon)
+📗 https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=11
 
-➡ https://apk.e-droid.net/apk/app3083574-gjwml6.apk?v=9
+Download GREEN_CASTLE. v1.2g Lucky Patcher Mod
 
-📕 *Download RED_CASTLE. v1.2f Lucky Patcher Mod*
-
-➡ https://www.mirrored.to/files/H6UK0AX5/
+📗 https://mir.cr/PHHYEZP5
 
 
 Virus Total for un-modded versions is clean, for modded versions see below:
-- Virus Total ( GREEN_CASTLE. ) https://shorturl.at/MIO1S
-- Virus Total ( RED_CASTLE. ) https://shorturl.at/Tj6zj
+- Virus Total ( GREEN_CASTLE. ) https://shorturl.at/Ojvti
+- Virus Total ( RED_CASTLE. ) https://shorturl.at/SiIbf
 *Click on the Don't Panic sign on app home screen!*
 
 How to mod app via Lucky Patcher
