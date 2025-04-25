@@ -33,8 +33,12 @@ The revolution won’t be televised. It’s on your phone. Grab it.
 🐸 REEBITT by Frog Intel
 
 👉 https://t.me/s/FrogIntel
-
-👉 Simplex: https://shorturl.at/rOUQz
+<details>
+<summary>
+👉 Simplex.chat ( Click Here )
+</summary>
+ https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2Fhejn2gVIqNU6xjtGM3OwQeuk8ZEbDXVJXAlnSBJBWUA%3D%40smp16.simplex.im%2FkGx_zTkWG95DcUxjp9OXpCssVNS5m7_5%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEATrS8k4HaRK2JWFvT54j4lrnfhQ36V5N7ZsGNh-yLBmw%253D%26srv%3Dp3ktngodzi6qrf7w64mmde3syuzrv57y55hxabqcq3l5p6oi7yzze6qd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22Vlh4JuB_dhdnl0OsKpoZ5Q%3D%3D%22%7D
+</details>
 
 🔗 https://github.com/FrogIntel
 
