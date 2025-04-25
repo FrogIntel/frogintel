@@ -32,11 +32,11 @@ The revolution won’t be televised. It’s on your phone. Grab it.
 
 🐸 REEBITT by Frog Intel
 
-👉 t.me/FrogIntel
+👉 https://t.me/s/FrogIntel
 
 👉 Simplex: https://shorturl.at/rOUQz
 
-🔗 github.com/FrogIntel
+🔗 https://github.com/FrogIntel
 
 
 # Download Now! (updated: Apr 2025, latest download links below)
