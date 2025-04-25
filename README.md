@@ -2,17 +2,41 @@
 
 ![CARD FRONT](https://github.com/FrogIntel/REEBITT/assets/142356943/16b1c6c0-15dc-42fe-9dea-5deae57a407e)
 
+## REEBITT: Rip Through the Veil of Lies 🐸 
 
-🆕 REEBITT Android application has been BANNED from Google Play Store during 2023, but is STILL AVAILABLE and going 💪
+📕 Unleash the Truth 📗 Fuck the Gatekeepers 🔥
+ 
+Tired of Big Tech feeding you sanitized bullshit? REEBITT is your Android weapon to shred the mainstream narrative and unearth the raw, unfiltered truth. Born from the ashes of Frog Intel, this app was banned by Google’s thought police for daring to expose what they don’t want you to know—COVID lies, election scams, and the deep-state’s dirty secrets. Now, it’s back, fiercer than ever, and it’s free. No corporate overlords. No donations. Just pure, out-of-pocket rebellion.  
+ 
+Why REEBITT?  
+ 
+• Red-Pill Central: Dive into the rabbit hole with direct access to QIntel, Wikileaks, X22 Report, Zero Hedge, and more. No filters, no censors—just the sources the elites hate.   
+ 
+• OSINT Arsenal: Arm yourself with tools to research the shit they bury. From leaked docs to shadow-banned posts, find it, screenshot it, share it.   
+ 
+• Social Rebellion: Log into X, Telegram, or Truth Social to spread the word or roast the shills. This ain’t your grandma’s browser.   
+ 
+• Hack the Ads: Built-in ads? Fuck that. Follow our Lucky Patcher guide and strip ‘em out like a boss.   
+ 
+• GREEN or RED CASTLE: Pick your vibe—light or dark, both loaded with updates and QAnon nods for those who know. 
+ 
+The Hidden War: 
+The normies won’t tell you, but there’s a battle for truth raging. REEBITT was forged in that fire, kicked off Google Play for refusing to bow to Big Pharma’s COVID dogma. Its anon devs fund it themselves, dodging the feds and the suits. Every link, every tool, every update is a middle finger to the cabal that’s been lying to you since JFK got smoked. This app isn’t just code—it’s a key to the history they erased, the truths they buried under “fact-checks” and 404 errors.   
 
-👉 Channel link (only Telegram)
-https://t.me/FrogIntel
+Get It Now: 
+Download REEBITT from github.com/FrogIntel or t.me/frogintel. Enable “unknown sources” and tell Google to shove it. Join the truther army on Telegram (@FrogIntel) for updates. Got feedback? Drop it in the app or the channel—we’re listening.   
 
-👉 XDAForums Link 
-https://xdaforums.com/t/app-4-4-reebitt-research-reach-react-fren.4658385/
+Warning: This ain’t for sheep. REEBITT’s rough, real, and relentless. Bugs? Yeah, we got a few—video glitches, refresh quirks. We’re fixing ‘em. But if you want polished propaganda, go back to CNN. If you want the truth, install REEBITT and start digging.   
 
-👉 Github link
-https://github.com/FrogIntel
+The revolution won’t be televised. It’s on your phone. Grab it.
+
+🐸 REEBITT by Frog Intel
+
+👉 t.me/FrogIntel
+
+👉 Simplex: https://shorturl.at/rOUQz
+
+🔗 github.com/FrogIntel
 
 
 # Download Now! (updated: Apr 2025, latest download links below)
@@ -37,7 +61,8 @@ Download GREEN_CASTLE. v1.2g Lucky Patcher Mod
 Virus Total for un-modded versions is clean, for modded versions see below:
 - Virus Total ( GREEN_CASTLE. ) https://shorturl.at/Ojvti
 - Virus Total ( RED_CASTLE. ) https://shorturl.at/SiIbf
-*Click on the Don't Panic sign on app home screen!*
+
+## *Click on the Don't Panic sign on app home screen!*
 
 How to mod app via Lucky Patcher
 🔗 https://t.me/frogintel/562
