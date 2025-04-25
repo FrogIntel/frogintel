@@ -109,15 +109,9 @@ https://t.me/frogintel/562
  
 </details>
 
-Hey Frens, a team of Admins and Anons inside the truther community have compiled a redpill 💊 Android 🤖 application called REEBITT 🐸, relaunched 1st Mar 2024, previously called Frog Intel.
-
 ![HELLOWORLD](https://github.com/FrogIntel/REEBIT/assets/142356943/bbf4e73c-907a-473c-bbc3-0ac7ccfde98e)
 
 
-
-In 2023 it was removed from the Play Store and asked by Google to be dumbed down removing any contradicting health information regarding COVID-19. This included removing entire sections, so we left it in.
-
-As of 2025, the app is now maintained by Anodev the original developer whilst the team that assisted in the  beginning of the app spread into different areas or ops
 
 # PREVIOUS REVIEWS AS FROG INTEL
 
@@ -283,11 +277,8 @@ https://apps400.com/android-apps/unveiling-the-power-of-frog-intel.html
 ![GREEN_CASTLE.](https://github.com/FrogIntel/REEBITT/assets/142356943/58dde818-a1cb-4a50-9767-b58a1aa0ee44)
 👆 GREEN_CASTLE. PREVIEW 2024
 
-It is designed to filter out a majority of the fakes, shills and trolls inside the movement spreading disinformation & misinformation. Providing you with OSINT tools alongside the Intel.
 
-You can use it for deep research into various red pill topics, prove to friends, family and others what is being censored, use it in landscape mode, screenshot, leave comments on different websites, login to social media such as Twitter, Telegram and Truth Social all in one place. The app will be maintained and updated.
-
-Use this app for reaching and researching areas such as:
+Reach, research, react with:
 
 QAlerts, QIntel, QResearch, FallCabal, Wikileaks, VTVault, Truth Social, AndWeKnow, X22 Report, O'Keefe Media Group, Disclose TV, The Gateway Pundit, 8kun RSS, War Room, The Light Paper, Fight with Kash, The Exposé, The Disclosure Hub, Zero Hedge, And many more..
 
