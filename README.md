@@ -57,6 +57,7 @@ Download GREEN_CASTLE. v1.2g Lucky Patcher Mod
 
 📗 https://mir.cr/PHHYEZP5
 
+🔶 Note: Github files will be updated soon, for now you can download via the links above.
 
 Virus Total for un-modded versions is clean, for modded versions see below:
 - Virus Total ( GREEN_CASTLE. ) https://shorturl.at/Ojvti
