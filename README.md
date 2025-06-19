@@ -51,7 +51,7 @@ Download RED_CASTLE. v1.2g via Development Platform (un-modded, sources updated 
 
 Download RED_CASTLE. v1.2g Lucky Patcher Mod
 
-📕 https://mir.cr/XGTUVYPM
+📕 https://github.com/FrogIntel/REEBITT/releases
 
 Download GREEN_CASTLE. v1.2g via Development Platform (un-modded)
 
@@ -59,7 +59,7 @@ Download GREEN_CASTLE. v1.2g via Development Platform (un-modded)
 
 Download GREEN_CASTLE. v1.2g Lucky Patcher Mod
 
-📗 https://mir.cr/PHHYEZP5
+📗 https://github.com/FrogIntel/REEBITT/releases
 
 🔶 Note: Github files will be updated soon, for now you can download via the links above.
 
