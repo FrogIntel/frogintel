@@ -49,7 +49,7 @@ Download RED_CASTLE. v1.2h Lucky Patcher Mod
 
 📕 https://github.com/FrogIntel/REEBITT/releases
 
-Download GREEN_CASTLE. v1.2g Lucky Patcher Mod
+Download GREEN_CASTLE. v1.2h Lucky Patcher Mod
 
 📗 https://github.com/FrogIntel/REEBITT/releases
 
