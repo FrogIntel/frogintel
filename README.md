@@ -45,27 +45,15 @@ The revolution won’t be televised. It’s on your phone. Grab it.
 
 # Download Now! (Updated June 2025: latest download links below)
 
-Download RED_CASTLE. v1.2g via Development Platform (un-modded, sources updated soon)
-
-📕 https://apk.e-droid.net/apk/app3083574-gjwml6.apk?v=10
-
-Download RED_CASTLE. v1.2g Lucky Patcher Mod
+Download RED_CASTLE. v1.2h Lucky Patcher Mod
 
 📕 https://github.com/FrogIntel/REEBITT/releases
-
-Download GREEN_CASTLE. v1.2g via Development Platform (un-modded)
-
-📗 https://apk.e-droid.net/apk/app3058727-gjwml6.apk?v=11
 
 Download GREEN_CASTLE. v1.2g Lucky Patcher Mod
 
 📗 https://github.com/FrogIntel/REEBITT/releases
 
-🔶 Note: Github files will be updated soon, for now you can download via the links above.
-
-Virus Total for un-modded versions is clean, for modded versions see below:
-- Virus Total ( GREEN_CASTLE. ) https://shorturl.at/Ojvti
-- Virus Total ( RED_CASTLE. ) https://shorturl.at/SiIbf
+🔶 Run through virus total if unsure.
 
 ## *Click on the Don't Panic sign on app home screen!*
 
@@ -82,7 +70,7 @@ With issues on the development platform there is no easy way to import / export 
 <details>
  <summary>
  ⛔ WHY THE APP IS CLOSED SOURCE AS OF 1ST MAR 2024 😞
- </summary>
+ </summy>
 Due to law issues via AppCreator24's terms of service the code was not allowed to be open sourced. Solutions were looked into but the issue of webview and cross origin problems occured not loading the webpages correctly on many different development platforms. So we've stayed with AppCreator24 and closed the code up. This allows the app to remain free, but has adverts installed but not activated. Only AppCreator24 adverts are activated and these will show on a very rare occasion. To remove the adverts after download please follow the tutorial below.
 </details>
 
@@ -611,4 +599,5 @@ Credits to user's from Countries that assisted development:
 **Law Issues**
 - Any issues with copyright or the license get in touch via the app contact form and we'll look into correcting things asap.
 
-![Visitor Count](https://profile-counter.glitch.me/{FrogIntel}/count.svg)
+
+[![Hit Count](https://hits.sh/github.com/frogintel/hits.svg)](https://hits.sh/github.com/frogintel/hits/)
